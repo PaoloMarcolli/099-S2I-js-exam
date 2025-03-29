@@ -133,11 +133,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Technical requirements
 L'applicazione deve essere sviluppata con JavaScript. 
-
 Non è permesso l'utilizzo di Jquery, non è permesso l'utilizzo di nessun framework (React, Angular, Vue o altri).
-
 È permesso l'utilizzo, se necessario, di librerie esterne JavaScript.
-
 I pulsanti +/- e la visualizzazione del valore del counter devono essere costruiti con la manipolazione del DOM con JavaScript. 
 
 Una volta costruiti gli elementi con JavaScript, si dovrà implementare la funzione che aggiungerà e diminuirà il valore del counter.
@@ -208,11 +205,7 @@ Il tuo progetto verrà corretto da un professionista del settore con 5 anni di e
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Nessuno
 
 ### Installation
 
@@ -242,6 +235,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -253,6 +247,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] Add Changelog
@@ -268,8 +263,41 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+Bonus mentoring
+ 5 minuti
+
+Pubblica su LinkedIn
+Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
+
+Hai mai pensato che ogni tua scoperta e ogni sfida superata durante il Master potrebbe ispirare decine di altre persone e attrarre opportunità inaspettate?
+
+Su LinkedIn, il tuo viaggio di apprendimento diventa il tuo biglietto da visita più potente con le aziende.
+
+Pubblica i tuoi progetti, condividi i tuoi ostacoli e le tue vittorie, e lascia che il tuo percorso parli per te.
+
+Non è solo un modo per celebrare i tuoi progressi: è la tua chance di attrarre opportunità che ti cambieranno la vita e di ispirare altre persone a trovare la loro strada.
+
+Ricorda, dietro ogni grande professionista c'è sempre una storia di crescita.
+
+Non sai bene come creare un post su LinkedIn?
+
+Qui trovi una breve guida che riassume come farlo in 5 punti.
+
+Condividi su Instagram o TikTok
+Sono Instagram o TikTok i social in cui senti di voler trasmettere la tua voce?
+
+In questo caso, puoi pubblicare una o più stories o contenuti che raccontino il progetto a cui stai lavorando.
+
+Quello che per te è un giorno di studio, per altri può diventare la scintilla che accende passione e voglia di mettersi in gioco!
+
+Puoi scegliere di condividere la tipologia di contenuto che preferisci, e taggarci.
+
+Se inserisci nella parte finale del tuo progetto una slide intitolata “Bonus Mentoring” contenente uno screenshot dei contenuti creati, su LinkedIn, Instagram o TikTok, guadagnerai 100 punti bonus nella soft skill Mentoring.
+
+Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e saranno attribuiti soltanto alla soft skill Mentoring, ma potrà essere il tassello per attrarre nuove opportunità e ispirare altre persone, proprio come un vero Mentor ✨
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -294,6 +322,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
@@ -303,6 +332,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
@@ -314,6 +344,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
