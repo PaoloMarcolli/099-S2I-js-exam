@@ -68,6 +68,8 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#technical-requirements">Technical requirements</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#github-publish">GitHub Publish</a></li>
+        <li><a href="#github-publish">Prima di inviare</a></li>
       </ul>
     </li>
     <li><a href="#exam-evalutation">Exam Evalutation</a></li>
@@ -160,6 +162,49 @@ Il contenuto delle immagini (se necessarie) all'interno dell'apposita cartella i
 Verrà valutata la corretta creazione del repository GitHub (file README).
 
 Per raggiungere il massimo del punteggio, il progetto deve soddisfare appieno tutti i requisiti descritti.
+
+### GitHub Publish
+Il progetto deve essere committato nel tuo repository GitHub.
+
+Il repository GitHub deve contenere tutto il codice sorgente dell'applicazione e il file README contenente la descrizione del progetto, screenshot dell'applicazione (se necessario) e il link, ben visibile, di dove provare l'applicazione.
+
+Inserisci tutte le informazioni che ritieni opportune.
+
+Di seguito trovi vari risorse utili per creare un buon README:
+
+README Template
+Awesome README
+README
+cercare su Google “git README template”
+Prima di inviare il progetto controlla che l'applicazione funzioni correttamente.
+
+Se nel repository GitHub non è presente tutto il codice sorgente dell'applicazione, il progetto non verrà corretto.
+
+Ti consigliamo infine di deployare il progetto su qualsiasi webhost gratuito (per esempio Netlify e Firebase). Questo sarà fondamentale per condividere il progetto e renderlo fruibile da chiunque.
+
+### Presentazione
+Crea una presentazione del tuo progetto in formato PDF e inserisci il link al repository GitHub.
+
+Per la presentazione puoi utilizzare qualsiasi tool; noi consigliamo Canva e beautiful.ai.
+
+Nella presentazione includi tutte le informazioni che possono essere utili per la correzione.
+
+Se la presentazione non presenta il link al repository GitHub, il progetto non verrà corretto.
+
+### Prima di inviare
+Sei a un passo dal tuo obiettivo!
+
+Carica il tuo file qui sotto.
+
+Il nome del file deve essere strutturato in questo modo:
+
+“Progetto JavaScript di Nome Cognome”.
+
+Non vediamo l’ora di verificare le tue competenze e ricorda che il difficile è solo iniziare, poi la strada è tutta in discesa.
+
+Metticela tutta, noi siamo qui per darti tutti i feedback necessari alla tua crescita nell’attesa di vederti spiccare il volo!
+
+Il tuo progetto verrà corretto da un professionista del settore con 5 anni di esperienza in media, che ti spiegherà punto per punto cosa hai fatto bene e cosa migliorare in un feedback personalizzato.
 
 ### Prerequisites
 
