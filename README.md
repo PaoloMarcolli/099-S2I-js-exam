@@ -70,6 +70,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#exam-evalutation">Exam Evalutation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -140,6 +141,25 @@ I pulsanti +/- e la visualizzazione del valore del counter devono essere costrui
 Una volta costruiti gli elementi con JavaScript, si dovrà implementare la funzione che aggiungerà e diminuirà il valore del counter.
 
 Sono ammesse tutte le funzionalità aggiuntive che si ritengono necessarie.
+
+### Exam Evalutation
+La valutazione del progetto segue i seguenti criteri.
+
+Verrà valutato il funzionamento dell'applicazione con il corretto funzionamento dei pulsanti +/-.
+
+Verrà valutata la corretta implementazione dei pulsanti +/- e della visualizzazione del valore counter attraverso l'utilizzo di JavaScript.
+
+Verrà valutata la bontà del codice scritto. Ci si aspetta una giusta suddivisione e implementazione delle logiche del progetto (cambio valore, visualizzazione valore) in diverse funzioni e, se necessario, in diversi file. 
+
+Verrà valutata la bontà della struttura del progetto: 
+
+Il contenuto HTML nell'apposito file index.html
+Il contenuto del codice JavaScript all'interno di file .js contenuto nella cartella js
+Il contenuto dello stile del progetto all'interno del file .css contenuti nella cartella css
+Il contenuto delle immagini (se necessarie) all'interno dell'apposita cartella img
+Verrà valutata la corretta creazione del repository GitHub (file README).
+
+Per raggiungere il massimo del punteggio, il progetto deve soddisfare appieno tutti i requisiti descritti.
 
 ### Prerequisites
 
