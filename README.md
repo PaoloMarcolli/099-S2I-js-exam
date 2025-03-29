@@ -250,21 +250,23 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
+- [x] Creazione del repository GitHub.
+- [x] Aggiunta del file README, immagini e altre risorse... 
+- [x] Pubblicazione su GitHub. 
 - [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Sviluppo applicazione.
+- [ ] Controllo se l'applicazione rispecchia le specifiche tecniche richieste.
+
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- BONUS MENTORING -->
+
+## Bonus
 
 Bonus mentoring
- 5 minuti
 
 Pubblica su LinkedIn
 Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
