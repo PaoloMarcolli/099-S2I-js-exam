@@ -335,13 +335,45 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/your_username) - paolo.marcolli.fl@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+### Bonus mentoring
+ 5 minuti
 
+Pubblica su LinkedIn
+Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
+
+Hai mai pensato che ogni tua scoperta e ogni sfida superata durante il Master potrebbe ispirare decine di altre persone e attrarre opportunità inaspettate?
+
+Su LinkedIn, il tuo viaggio di apprendimento diventa il tuo biglietto da visita più potente con le aziende.
+
+Pubblica i tuoi progetti, condividi i tuoi ostacoli e le tue vittorie, e lascia che il tuo percorso parli per te.
+
+Non è solo un modo per celebrare i tuoi progressi: è la tua chance di attrarre opportunità che ti cambieranno la vita e di ispirare altre persone a trovare la loro strada.
+
+Ricorda, dietro ogni grande professionista c'è sempre una storia di crescita.
+
+Non sai bene come creare un post su LinkedIn?
+
+<a href="https://www.start2impact.it/wp-content/uploads/2024/06/Guida-Come-creare-un-post-su-LinkedIn.pdf" target="_blank" title="">Qui trovi una breve guida che riassume come farlo in 5 punti.</a>
+
+Condividi su Instagram o TikTok
+Sono Instagram o TikTok i social in cui senti di voler trasmettere la tua voce?
+
+In questo caso, puoi pubblicare una o più stories o contenuti che raccontino il progetto a cui stai lavorando.
+
+Quello che per te è un giorno di studio, per altri può diventare la scintilla che accende passione e voglia di mettersi in gioco!
+
+Puoi scegliere di condividere la tipologia di contenuto che preferisci, e taggarci.
+
+Se inserisci nella parte finale del tuo progetto una slide intitolata “Bonus Mentoring” contenente uno screenshot dei contenuti creati, su LinkedIn, Instagram o TikTok, guadagnerai 100 punti bonus nella soft skill Mentoring.
+
+Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e saranno attribuiti soltanto alla soft skill Mentoring, ma potrà essere il tassello per attrarre nuove opportunità e ispirare altre persone, proprio come un vero Mentor ✨
 
 <!-- ACKNOWLEDGMENTS -->
 
