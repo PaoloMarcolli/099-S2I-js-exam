@@ -250,12 +250,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [x] Creazione del repository GitHub.
-- [x] Aggiunta del file README, immagini e altre risorse... 
-- [x] Pubblicazione su GitHub. 
+- [x] Creating the GitHub repository.
+- [x] Adding the README file, images and other resources...
+- [x] Publishing to GitHub.
 - [ ] Add Additional Templates w/ Examples
-- [ ] Sviluppo applicazione.
-- [ ] Controllo se l'applicazione rispecchia le specifiche tecniche richieste.
+- [ ] Application development.
+- [ ] Checking if the application meets the required technical specifications.
+    - [ ] Translate in english with Google ( sorry ).
 
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
@@ -267,6 +268,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 ## Bonus
 
 Bonus mentoring
+ 5 minuti
 
 Pubblica su LinkedIn
 Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
@@ -315,11 +317,9 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<!--
 <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" /> 
+  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
 </a>
--->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -339,7 +339,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - paolo.marcolli.fl@gmail.com
+Paolo Marcolli - [@your_twitter](https://twitter.com/your_username) - paolo.marcolli.fl@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
@@ -347,7 +347,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGMENTS -->
 ### Bonus mentoring
- 5 minuti
 
 Pubblica su LinkedIn
 Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
@@ -356,28 +355,35 @@ Hai mai pensato che ogni tua scoperta e ogni sfida superata durante il Master po
 
 Su LinkedIn, il tuo viaggio di apprendimento diventa il tuo biglietto da visita più potente con le aziende.
 
-Pubblica i tuoi progetti, condividi i tuoi ostacoli e le tue vittorie, e lascia che il tuo percorso parli per te.
+Publish on LinkedIn
+Turn your studies into opportunities thanks to LinkedIn!
 
-Non è solo un modo per celebrare i tuoi progressi: è la tua chance di attrarre opportunità che ti cambieranno la vita e di ispirare altre persone a trovare la loro strada.
+Have you ever thought that every discovery you make and every challenge you overcome during your Master's degree could inspire dozens of other people and attract unexpected opportunities?
 
-Ricorda, dietro ogni grande professionista c'è sempre una storia di crescita.
+On LinkedIn, your learning journey becomes your most powerful business card with companies.
 
-Non sai bene come creare un post su LinkedIn?
+Publish your projects, share your obstacles and your victories, and let your journey speak for you.
 
-<a href="https://www.start2impact.it/wp-content/uploads/2024/06/Guida-Come-creare-un-post-su-LinkedIn.pdf" target="_blank" title="">Qui trovi una breve guida che riassume come farlo in 5 punti.</a>
+It's not just a way to celebrate your progress: it's your chance to attract life-changing opportunities and inspire other people to find their way.
 
-Condividi su Instagram o TikTok
-Sono Instagram o TikTok i social in cui senti di voler trasmettere la tua voce?
+Remember, behind every great professional there is always a story of growth.
 
-In questo caso, puoi pubblicare una o più stories o contenuti che raccontino il progetto a cui stai lavorando.
+Not sure how to create a post on LinkedIn?
 
-Quello che per te è un giorno di studio, per altri può diventare la scintilla che accende passione e voglia di mettersi in gioco!
+<a href="https://www.start2impact.it/wp-content/uploads/2024/06/Guida-Come-creare-un-post-su-LinkedIn.pdf" target="_blank" title="">Here is a short guide that summarizes how to do it in 5 points.</a>
 
-Puoi scegliere di condividere la tipologia di contenuto che preferisci, e taggarci.
+Share on Instagram or TikTok
+Are Instagram or TikTok the social networks where you feel you want to transmit your voice?
 
-Se inserisci nella parte finale del tuo progetto una slide intitolata “Bonus Mentoring” contenente uno screenshot dei contenuti creati, su LinkedIn, Instagram o TikTok, guadagnerai 100 punti bonus nella soft skill Mentoring.
+In this case, you can publish one or more stories or content that tell the project you are working on.
 
-Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e saranno attribuiti soltanto alla soft skill Mentoring, ma potrà essere il tassello per attrarre nuove opportunità e ispirare altre persone, proprio come un vero Mentor ✨
+What for you is a day of study, for others can become the spark that ignites passion and the desire to get involved!
+
+You can choose to share the type of content you prefer, and tag us.
+
+If you insert a slide titled "Bonus Mentoring" containing a screenshot of the content created, on LinkedIn, Instagram or TikTok, in the final part of your project, you will earn 100 bonus points in the Mentoring soft skill.
+
+This is an optional step: the points will not affect the total score and will only be attributed to the Mentoring soft skill, but it could be the piece to attract new opportunities and inspire other people, just like a real Mentor ✨
 
 <!-- ACKNOWLEDGMENTS -->
 
