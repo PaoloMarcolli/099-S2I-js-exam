@@ -1,0 +1,133 @@
+/* Main stylesheet semantic block    */
+body
+{
+    background-color:white;
+    font-family:"Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:black;
+    margin:0;
+    background-image: url("../img/background.jpg") ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: calc(100% + 15%);
+}
+/*----------------------------------*/
+
+/* Main stylesheet block main,footer */
+
+/* main */
+main {
+    padding: 16px;
+    margin-top: 30px;
+    margin-left:15%;
+    margin-right:15%;
+    background-color: white;   
+    width: calc(100% - margin-left-margin-right);
+    min-height: calc(100% + 15%);
+  }
+
+/* header */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    background-color: #156faa;
+    border-color: #156faa;
+    margin-right: auto;
+    position: fixed;
+    top: 0;
+
+}
+
+/* footer */
+footer {
+    margin-top: 0px;
+    height: 15%; /* Used in this example to enable scrolling */
+    background-color: white;  
+    width: calc(100% - margin-left-margin-right); 
+    margin-left:15%;
+    margin-right:15%;
+    display: block;
+}
+
+/* article */
+article{
+    margin: 15px;
+    padding: 15px ;
+    padding-top: 0px;
+    background-color: #fbfdfff8;
+    border: 1px solid #add7ec;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);    
+}
+/*----------------------------------*/
+
+/* Nav bar stylesheet block         */
+nav {
+    margin-left: 50px;
+    height: 50px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #156faa;
+    border-color:  #156faa;
+}
+nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding:  14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+ }
+nav a:hover {
+    background: #60afd3;
+}
+/*----------------------------------*/
+
+/* Footer stylesheet sub-block      */
+.footer-lower {
+    flex-direction: row;
+    padding: 44px 0;
+}
+.footer-lower a {
+    float: left;
+    align-content: end;
+    display: block;
+    color: #807a7a;    
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+ }
+.footer-upper-social-links 
+{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 5px;
+}
+.footer-upper-social-links a
+{
+    padding: 0px;
+}
+
+.footer-upper {
+    flex-direction: row;
+    padding: 72px 0 44px;    
+    /*height: 50%;*/
+}
+.footer-upper a {
+    float: left;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+ }
+/*----------------------------------*/
