@@ -1,4 +1,4 @@
-class Counter{
+class Calculator{
 
     constructor(previousOperandTextElement,currentOperandTextElement){
         this.previousOperandTextElement=previousOperandTextElement;
@@ -12,17 +12,10 @@ class Counter{
         this.operation=undefined;
     }
     
-    // Increase counter
-    increase(){
-        this.updateDisplay();
-    }   
+    delete(){
 
-    // Decrease counter
-    decrease(){
-        this.updateDisplay();
-    }   
-
-    /*
+    }
+    
     appendNumber(number){
         if (number==='.' && this.currentOperand.includes('.')) return
         this.currentOperand=this.currentOperand.toString() + number.toString();
@@ -81,7 +74,7 @@ class Counter{
             return integerDisplay;
         }
     }
-    */
+
     updateDisplay(){
         this.currentOperandTextElement.innerText=this.getDisplayNumber(this.currentOperand);
         if (this.operation !=null ){
