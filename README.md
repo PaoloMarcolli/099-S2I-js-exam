@@ -177,51 +177,32 @@ Nella presentazione includi tutte le informazioni che possono essere utili per l
 
 Se la presentazione non presenta il link al repository GitHub, il progetto non verrà corretto.
 
-### Prima di inviare
-Sei a un passo dal tuo obiettivo!
+### Before sending
+You are one step away from your goal!
 
-Carica il tuo file qui sotto.
+Upload your file below.
 
-Il nome del file deve essere strutturato in questo modo:
+The file name must be structured like this:
 
-“Progetto JavaScript di Nome Cognome”.
+“Name Surname JavaScript Project”.
 
-Non vediamo l’ora di verificare le tue competenze e ricorda che il difficile è solo iniziare, poi la strada è tutta in discesa.
+We can’t wait to test your skills and remember that the hard part is just getting started, then it’s all downhill.
 
-Metticela tutta, noi siamo qui per darti tutti i feedback necessari alla tua crescita nell’attesa di vederti spiccare il volo!
+Give it your all, we are here to give you all the feedback you need to grow while waiting to see you take flight!
 
-Il tuo progetto verrà corretto da un professionista del settore con 5 anni di esperienza in media, che ti spiegherà punto per punto cosa hai fatto bene e cosa migliorare in un feedback personalizzato.
+Your project will be corrected by a professional in the sector with an average of 5 years of experience, who will explain to you point by point what you did well and what to improve in personalized feedback.
 
 ### Prerequisites
 
-Nessuno
+Not necessary.
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+Not necessary. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 
@@ -254,42 +235,6 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <!-- BONUS MENTORING -->
 
-## Bonus
-
-Bonus mentoring
- 5 minuti
-
-Pubblica su LinkedIn
-Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
-
-Hai mai pensato che ogni tua scoperta e ogni sfida superata durante il Master potrebbe ispirare decine di altre persone e attrarre opportunità inaspettate?
-
-Su LinkedIn, il tuo viaggio di apprendimento diventa il tuo biglietto da visita più potente con le aziende.
-
-Pubblica i tuoi progetti, condividi i tuoi ostacoli e le tue vittorie, e lascia che il tuo percorso parli per te.
-
-Non è solo un modo per celebrare i tuoi progressi: è la tua chance di attrarre opportunità che ti cambieranno la vita e di ispirare altre persone a trovare la loro strada.
-
-Ricorda, dietro ogni grande professionista c'è sempre una storia di crescita.
-
-Non sai bene come creare un post su LinkedIn?
-
-Qui trovi una breve guida che riassume come farlo in 5 punti.
-
-Condividi su Instagram o TikTok
-Sono Instagram o TikTok i social in cui senti di voler trasmettere la tua voce?
-
-In questo caso, puoi pubblicare una o più stories o contenuti che raccontino il progetto a cui stai lavorando.
-
-Quello che per te è un giorno di studio, per altri può diventare la scintilla che accende passione e voglia di mettersi in gioco!
-
-Puoi scegliere di condividere la tipologia di contenuto che preferisci, e taggarci.
-
-Se inserisci nella parte finale del tuo progetto una slide intitolata “Bonus Mentoring” contenente uno screenshot dei contenuti creati, su LinkedIn, Instagram o TikTok, guadagnerai 100 punti bonus nella soft skill Mentoring.
-
-Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e saranno attribuiti soltanto alla soft skill Mentoring, ma potrà essere il tassello per attrarre nuove opportunità e ispirare altre persone, proprio come un vero Mentor ✨
-
-<!-- CONTRIBUTING -->
 
 ## Contributing
 
@@ -334,15 +279,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- BONUS -->
 ### Bonus mentoring
-
-Pubblica su LinkedIn
-Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
-
-Hai mai pensato che ogni tua scoperta e ogni sfida superata durante il Master potrebbe ispirare decine di altre persone e attrarre opportunità inaspettate?
-
-Su LinkedIn, il tuo viaggio di apprendimento diventa il tuo biglietto da visita più potente con le aziende.
 
 Publish on LinkedIn
 Turn your studies into opportunities thanks to LinkedIn!
