@@ -1,63 +1,85 @@
-class Calculator{
+class Counter{
 
-    constructor(previousOperandTextElement,currentOperandTextElement){
-        this.previousOperandTextElement=previousOperandTextElement;
-        this.currentOperandTextElement=currentOperandTextElement;
-        this.clear();
-    }
-    
-    clear(){
-        this.currentOperand='';
-        this.previousOperand='';
-        this.operation=undefined;
-    }
-    
-    delete(){
+/*    constructor(outputControl,increaseControl,decreaseControl){
+        this.outputControl=outputControl;
+        this.increaseControl=increaseControl;
+        this.decreaseControl=decreaseControl;
+        this.reset();
+    }*/
 
+    constructor(container){
+/*        this.outputControl=outputControl;
+        this.increaseControl=increaseControl;
+        this.decreaseControl=decreaseControl;
+        this.reset();*/
+        this.createControls(container);
     }
     
-    appendNumber(number){
-        if (number==='.' && this.currentOperand.includes('.')) return
-        this.currentOperand=this.currentOperand.toString() + number.toString();
-    }
     
-    chooseOperation(operation){
-        if (this.currentOperand==='') return;
-        if (this.currentOperand!=='') {
-            this.compute();
+    reset(){
+        this.counterValue=0;
+        this.refreshControl();
+    }
+       
+    increaseCounter(){
+        if (this.counterValue>20000){
+            // block display error
         }
-        this.operation=operation;
-        this.previousOperand=this.currentOperand;
-        this.currentOperand='';
+        else{
+            this.counterValue++;
+        }
+        this.refreshControl();
+        /*
+        if (number==='.' && this.currentOperand.includes('.')) return
+        this.currentOperand=this.currentOperand.toString() + number.toString();*/
     }
     
-    compute(){
-        let computation;
-        const prev=parseFloat(this.previousOperand);
-        const current=parseFloat(this.currentOperand);
-        if (isNaN(prev) || isNaN(current)) return;
-        switch( this.operation){
-            case '+':
-                computation=prev+current;
-                break;
-            case '-':
-                computation=prev-current;
-                break;
-            case '*':
-                computation=prev*current;
-                break;
-            case '÷':
-                computation=prev/current;
-                break;
-            default:
-                return
-            }
-        this.currentOperand=computation;
-        this.operation=undefined;
-        this.previousOperand='';
+    decreaseCounter(){
+        if (this.counterValue==0){
+            // block display error
+        }
+        else{
+            this.counterValue--;
+        }
+        this.refreshControl();
     }
 
+    // Create container
+    createDivElement() {
+        let resultNode = document.createElement('div');
+        resultNode.classList.add("output");
+        resultNode.id="idOutput"
+        resultNode.appendChild(this.createSubDivElement());
+        return resultNode;
+    }
+    
+    // Create display
+    createSubDivElement() {
+        let resultNode = document.createElement('div');
+        resultNode.classList.add("data-current-value");
+        resultNode.id="idValue"
+        return resultNode;
+    }
+    
+    // Create buttons
+    createButtonElement(value) {
+        let resultNode = document.createElement('button');
+        //resultNode.className='button-'+value+'';
+        resultNode.classList.add('data-'+value+'-value');
+        resultNode.classList.add("button-"+value);
+        return resultNode;
+    }
+    
+    createControls(container){
+        container.appendChild(this.createDivElement());
+        container.appendChild(this.createButtonElement('increase'));
+        container.appendChild(this.createButtonElement('decrease'));
+    }
+    
     getDisplayNumber(number){
+        const stringNumber=number.toString();
+        return stringNumber;
+        /*
         const stringNumber=number.toString();
         const integerDigits =parseFloat(stringNumber.split('.')[0]);
         const decimalDigits =stringNumber.split('.')[1];
@@ -72,21 +94,13 @@ class Calculator{
             return `${integerDisplay}.${decimalDigits}`;
         } else{
             return integerDisplay;
-        }
+        }*/
     }
 
-    updateDisplay(){
-        this.currentOperandTextElement.innerText=this.getDisplayNumber(this.currentOperand);
-        if (this.operation !=null ){
-            this.previousOperandTextElement.innerText= 
-            `${this.getDisplayNumber(this.previousOperand)} ${this.operation}`;
-        } else {
-            this.previousOperandTextElement.innerText='';
-        }   
+    refreshControl(){
+        this.outputControl.innerText=this.getDisplayNumber(this.counterValue);
     }
 };
-
-
 
 function OnDomLoaded(){
     if (document.readyState==="loading"){
@@ -95,6 +109,27 @@ function OnDomLoaded(){
       console.log(myResult);*/
     }
     else{
+        let outputControl= document.querySelector('[data-current-value]');
+        let increaseControl= document.querySelector('[data-increase-value]');
+        let decreaseControl= document.querySelector('[data-decrease-value]');
+        let container=document.getElementById('ctlContainer');
+
+        const counter= new Counter (container)
+        /*
+        const counter= new Counter(outputControl,increaseControl,decreaseControl);
+
+        increaseControl.addEventListener('click', () => {
+            counter.increaseCounter();
+            counter.refreshControl();
+        });
+
+        decreaseControl.addEventListener('click', () => {
+            counter.decreaseCounter();
+            counter.refreshControl();
+        });
+        */
+
+        /*
         const numberButtons=document.querySelectorAll('[data-number]');
         const operationButtons=document.querySelectorAll('[data-operation]');
         const equalsButtons=document.querySelector('[data-equals]');
@@ -127,6 +162,7 @@ function OnDomLoaded(){
             calculator.clear();
             calculator.updateDisplay();
         });
+        */
     }
   }
   
