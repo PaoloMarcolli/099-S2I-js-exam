@@ -6,9 +6,6 @@ function OnDomLoaded(){
       console.log(myResult);*/
     }
     else{
-        let outputControl= document.querySelector('[data-current-value]');
-        let increaseControl= document.querySelector('[data-increase-value]');
-        let decreaseControl= document.querySelector('[data-decrease-value]');
         let container=document.getElementById('ctlContainer');
 
         const counter= new Counter (container);

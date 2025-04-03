@@ -1,0 +1,14 @@
+.data-button {
+    cursor: pointer;
+    font-size: 5rem;
+    background-color: rgb(0, 0, 0);
+    border: solid 1px white;
+    width: 40%;
+    height: 10vh;
+    margin-top: 20px;
+    border-radius: 20px;
+  }
+  
+.data-button:hover { 
+    background-color: rgb(10, 10, 10);
+ } 

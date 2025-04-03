@@ -1,19 +1,8 @@
 class Counter{
 
-    /*    constructor(outputControl,increaseControl,decreaseControl){
-            this.outputControl=outputControl;
-            this.increaseControl=increaseControl;
-            this.decreaseControl=decreaseControl;
-            this.reset();
-        }*/
-    
         constructor(container){
-    /*        this.outputControl=outputControl;
-            this.increaseControl=increaseControl;
-            this.decreaseControl=decreaseControl;
-            this.reset();*/
-            this.nodeStructure=new Node();
             this.createControls(container);
+            //this.refreshControl();
         }
         
         
@@ -45,16 +34,31 @@ class Counter{
             this.refreshControl();
         }
     
-        
+        // Dinamic creation of control and binding-event to related objects 
         createControls(container){
-            container.appendChild(this.nodeStructure.createDivElement());
-            container.appendChild(this.nodeStructure.createButtonElement('increase'));
-            container.appendChild(this.nodeStructure.createButtonElement('decrease'));
+            // Value node.
+            let node = new Node("div","data-display","idValue");
+            // Append all elements
+            container.appendChild(node);
+            // Increase button.
+            node = new Node("button","data-button","idButtonDecrease");
+            // Append button.
+            container.appendChild(node)
+            // Decrease button.
+            node = new Node("button","data-button","idButtonIncrease");
+            // Append button.
+            container.appendChild(node)
+            // 
+            this.buttonsControl=document.querySelectorAll('[data-button]');
         }
         
         getDisplayNumber(number){
-            const stringNumber=number.toString();
-            return stringNumber;
+            console.log(number);
+            let resultToDisplay=0;
+            if (number!==undefined ){
+                resultToDisplay=number.toString();
+            }
+            return resultToDisplay.toString();
             /*
             const stringNumber=number.toString();
             const integerDigits =parseFloat(stringNumber.split('.')[0]);
@@ -74,6 +78,8 @@ class Counter{
         }
     
         refreshControl(){
+            console.log(this.outputControl);
+            console.log(this.counterValue);
             this.outputControl.innerText=this.getDisplayNumber(this.counterValue);
         }
     };
