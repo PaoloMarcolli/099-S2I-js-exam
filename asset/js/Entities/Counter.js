@@ -12,6 +12,7 @@ class Counter{
             this.increaseControl=increaseControl;
             this.decreaseControl=decreaseControl;
             this.reset();*/
+            this.nodeStructure=new Node();
             this.createControls(container);
         }
         
@@ -44,36 +45,11 @@ class Counter{
             this.refreshControl();
         }
     
-        // Create container
-        createDivElement() {
-            let resultNode = document.createElement('div');
-            resultNode.classList.add("output");
-            resultNode.id="idOutput"
-            resultNode.appendChild(this.createSubDivElement());
-            return resultNode;
-        }
-        
-        // Create display
-        createSubDivElement() {
-            let resultNode = document.createElement('div');
-            resultNode.classList.add("data-current-value");
-            resultNode.id="idValue"
-            return resultNode;
-        }
-        
-        // Create buttons
-        createButtonElement(value) {
-            let resultNode = document.createElement('button');
-            //resultNode.className='button-'+value+'';
-            resultNode.classList.add('data-'+value+'-value');
-            resultNode.classList.add("button-"+value);
-            return resultNode;
-        }
         
         createControls(container){
-            container.appendChild(this.createDivElement());
-            container.appendChild(this.createButtonElement('increase'));
-            container.appendChild(this.createButtonElement('decrease'));
+            container.appendChild(this.nodeStructure.createDivElement());
+            container.appendChild(this.nodeStructure.createButtonElement('increase'));
+            container.appendChild(this.nodeStructure.createButtonElement('decrease'));
         }
         
         getDisplayNumber(number){
