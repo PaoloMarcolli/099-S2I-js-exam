@@ -52,39 +52,37 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- Contenuti -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Lista dei contenuti</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Descrizione del progetto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Tecnologie di sviluppo</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#technical-requirements">Technical requirements</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#github-publish">GitHub Publish</a></li>
+        <li><a href="#prerequisites">Prerequisiti</a></li>
+        <li><a href="#technical-requirements">Richieste tecniche</a></li>
+        <li><a href="#installation">Installazione</a></li>
+        <li><a href="#github-publish">Rilascio su GitHub</a></li>
         <li><a href="#github-publish">Prima di inviare</a></li>
       </ul>
     </li>
-    <li><a href="#exam-evalutation">Exam Evalutation</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#exam-evalutation">Parametri valutazione esame</a></li>
+    <li><a href="#usage">Utilizzo</a></li>
+    <li><a href="#roadmap">Passaggi per sviluppo</a></li>
+    <li><a href="#contributing">Contributi</a></li>
+    <li><a href="#license">Licenza</a></li>
+    <li><a href="#contact">Contatti</a></li>
+    <li><a href="#acknowledgments">Collegamenti</a></li>
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
+<!-- Descrizione del progetto -->
 ## Descrizione del progetto
 
 <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">
@@ -103,7 +101,7 @@ The user, as soon as he enters the page, will see 0 as the value of the counter 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+* [![JS][JS.js]][JS-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
