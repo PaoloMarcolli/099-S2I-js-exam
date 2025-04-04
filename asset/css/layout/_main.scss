@@ -1,0 +1,25 @@
+// Mixin per applicare le regole CSS per il main
+@mixin base-main-rule {
+    @include base-flex-rule(row);
+    border-radius: 10px;
+    margin: calc(margin-top-bottom(true) * 8) margin-left-right(true);
+    justify-content: center;
+    .fl-main {
+    @include base-color-main();
+    @include base-flex-rule(column);
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    width: 95%;
+        &-item {
+            @include base-color-main();
+            margin-bottom: 4%;
+            width: 100%;
+            scroll-margin-top: 100px; /* Set scroll margin equal to the height of the fixed header */
+            @include base-flex-rule(row);
+            justify-content: center;
+            align-items: center;
+            gap: 4%;
+            flex-wrap: nowrap;
+        }
+    } 
+} 

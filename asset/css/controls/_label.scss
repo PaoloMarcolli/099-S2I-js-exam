@@ -1,18 +1,7 @@
-.data-display  {
-    background-color: rgba( 0, 0, 0,.75);
-    padding: 10px;
-    width:  100%;
-    height: 25vh;
-    word-wrap: break-word;
-    word-break: break-all;
-    border: dotted 1px red;
+// Label
+#IdDisplay {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 10rem;
   }
-  
-  /*
-  .counter-container .output .current-value  {
-    color: white;
-    font-size: 5.5rem;
-    background-color: #1a1515;
-    height: 50%;
-  }
-*/

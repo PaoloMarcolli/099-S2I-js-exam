@@ -1,74 +1,236 @@
 /* 
-  Main File 
+
+  Main file
 
   - config.scss   ( impostazioni di base)
-  - bootstrap/bootstrap-css-override.scss ( override del tema scuro di Bootstrap )
-  - elements/btn-scroll-to-top.scss ( pulsante per scrollare verso l'inizio della pagina )
-  - layout/footer.scss ( tutto il foglio di style per il footer ) 
-  - layout/header.scss ( tutto il foglio di style per il footer )
-  - pages/contact.scss ( tutto il foglio di style per la pagina "contattami" )
-  - pages/curriculum.scss ( tutto il foglio di style per la pagina "curriculum" )
   - pages/projects.scss ( tutto il foglio di style per la pagina "progetti" )
   - pages/who-i-am.scss ( tutto il foglio di style per la pagina "who-i-am" )     
 
 */
+/* Base colors */
+/*$background-color-primary:  rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;*/
+/* Canvas colors */
+/* Margins */
+/* Mixin for test application */
+/* Show borders test */
+/* Function for mantain proportional margin,fonts,colors */
+/* Get margin left,right responsive function */
+/* Get margin top,bottom responsive function */
+/* Base color */
+/* Base color */
+/* Base color */
+/* Anchor base rules */
+/* Function add flex-box */
 .data-button {
+  display: block;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  border: 2px solid #f5f5f5;
+  border-radius: 50%;
+  color: #f5f5f5;
+  text-align: center;
+  text-decoration: none;
+  background: #000;
+  box-shadow: 0 0 7px rgb(27, 27, 27);
+  font-size: 3em;
+  font-weight: bold;
   cursor: pointer;
-  font-size: 5rem;
-  background-color: rgb(0, 0, 0);
-  border: solid 1px white;
-  width: 40%;
-  height: 10vh;
-  margin-top: 20px;
-  border-radius: 20px;
 }
-
 .data-button:hover {
-  background-color: rgb(10, 10, 10);
+  background-color: rgb(32, 32, 32);
 }
 
-.data-display {
-  background-color: rgba(0, 0, 0, 0.75);
-  padding: 10px;
+#IdButtonDecrease.data-button::after {
+  content: "-";
+}
+
+#IdButtonIncrease.data-button::after {
+  content: "+";
+}
+
+#IdDisplay {
+  justify-content: center;
+  align-items: center;
   width: 100%;
-  height: 25vh;
-  word-wrap: break-word;
-  word-break: break-all;
-  border: dotted 1px red;
+  font-size: 10rem;
 }
 
-/*
-  .counter-container .output .current-value  {
-    color: white;
-    font-size: 5.5rem;
-    background-color: #1a1515;
-    height: 50%;
-  }
-*/
-.montserrat-1 {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 900;
-  font-style: normal;
-}
-
-*, *::before, *::after {
-  box-sizing: border-box;
+.fl-page {
   font-family: montserrat-1;
   font-weight: normal;
+  margin: 0;
+  height: 100vh;
+  color: #FFFFFF !important;
+  background-color: #000000 !important;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
 }
-
-body {
-  margin-top: 5%;
-  margin-left: 25%;
-  margin-right: 25%;
-  margin-bottom: 5%;
-  background: #000;
+.fl-page .fl-header {
+  background-color: #000000 !important;
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.1);
+  position: fixed;
+  border-bottom: 1px solid #FFFFFF !important;
+  width: 100%;
+  z-index: 1;
 }
-
-.counter-container {
+.fl-page .fl-header ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  overflow: hidden;
+}
+.fl-page .fl-header ul a {
+  text-decoration: none;
+  display: block;
+  color: #FFFFFF !important;
+}
+.fl-page .fl-header ul a:hover {
+  background-color: #181818;
+}
+.fl-page .fl-header ul a {
+  padding: 20px 20px;
+  cursor: pointer;
+}
+.fl-page .fl-header .logo {
+  float: left;
+  padding: 10px 20px;
+  font-size: 25px;
+}
+.fl-page .fl-header li {
+  float: left;
+}
+.fl-page .fl-header li a {
+  padding: 20px 30px;
+}
+.fl-page .fl-header .menu {
+  clear: none;
+  max-height: none;
+  float: right;
+}
+.fl-page .fl-header .menu-icon {
+  display: none;
+}
+.fl-page .fl-main {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  border-radius: 10px;
+  margin: 20% 2.5%;
+  justify-content: center;
+}
+.fl-page .fl-main .fl-main {
+  color: #FFFFFF !important;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  width: 95%;
+}
+.fl-page .fl-main .fl-main-item {
+  color: #FFFFFF !important;
+  background-color: transparent;
+  margin-bottom: 4%;
+  width: 100%;
+  scroll-margin-top: 100px; /* Set scroll margin equal to the height of the fixed header */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 4%;
+  flex-wrap: nowrap;
+}
+
+/* Media query when the screen is larger than 1152px ( PC/laptop device ) */
+@media (min-width: 1024px) {
+  /* Layout structure ( using nesting SASS syntax ) */
+  .fl-page {
+    font-family: montserrat-1;
+    font-weight: normal;
+    margin: 0;
+    height: 100vh;
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  .fl-page .fl-header {
+    background-color: #000000 !important;
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.1);
+    position: fixed;
+    border-bottom: 1px solid #FFFFFF !important;
+    width: 100%;
+    z-index: 1;
+  }
+  .fl-page .fl-header ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+  }
+  .fl-page .fl-header ul a {
+    text-decoration: none;
+    display: block;
+    color: #FFFFFF !important;
+  }
+  .fl-page .fl-header ul a:hover {
+    background-color: #181818;
+  }
+  .fl-page .fl-header ul a {
+    padding: 20px 20px;
+    cursor: pointer;
+  }
+  .fl-page .fl-header .logo {
+    float: left;
+    padding: 10px 20px;
+    font-size: 25px;
+  }
+  .fl-page .fl-header li {
+    float: left;
+  }
+  .fl-page .fl-header li a {
+    padding: 20px 30px;
+  }
+  .fl-page .fl-header .menu {
+    clear: none;
+    max-height: none;
+    float: right;
+  }
+  .fl-page .fl-header .menu-icon {
+    display: none;
+  }
+  .fl-page .fl-main {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    margin: 20% 2.5%;
+    justify-content: center;
+  }
+  .fl-page .fl-main .fl-main {
+    color: #FFFFFF !important;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    width: 95%;
+  }
+  .fl-page .fl-main .fl-main-item {
+    color: #FFFFFF !important;
+    background-color: transparent;
+    margin-bottom: 4%;
+    width: 100%;
+    scroll-margin-top: 100px; /* Set scroll margin equal to the height of the fixed header */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 4%;
+    flex-wrap: nowrap;
+  }
 }/*# sourceMappingURL=main.css.map */

@@ -1,57 +1,49 @@
+// Counter class.
 class Counter{
-
+        // Constructor pass element to append control.
         constructor(container){
-            this.createControls(container);
-            //this.refreshControl();
-        }
-        
-        
-        reset(){
             this.counterValue=0;
-            this.refreshControl();
+            this.createControls(container);
+            this.reset();
         }
-           
-        increaseCounter(){
-            if (this.counterValue>20000){
-                // block display error
-            }
-            else{
-                this.counterValue++;
-            }
-            this.refreshControl();
-            /*
-            if (number==='.' && this.currentOperand.includes('.')) return
-            this.currentOperand=this.currentOperand.toString() + number.toString();*/
-        }
-        
-        decreaseCounter(){
-            if (this.counterValue==0){
-                // block display error
-            }
-            else{
-                this.counterValue--;
-            }
-            this.refreshControl();
-        }
-    
+
         // Dinamic creation of control and binding-event to related objects 
         createControls(container){
-            // Value node.
-            let node = new Node("div","data-display","idValue");
-            // Append all elements
-            container.appendChild(node);
-            // Increase button.
-            node = new Node("button","data-button","idButtonDecrease");
-            // Append button.
-            container.appendChild(node)
-            // Decrease button.
-            node = new Node("button","data-button","idButtonIncrease");
-            // Append button.
-            container.appendChild(node)
-            // 
-            this.buttonsControl=document.querySelectorAll('[data-button]');
+            // FlexBox is my favuorite container 
+            let flxNode1 = new Node("div","fl-main-item","IdDisplay");
+            container.appendChild(flxNode1);
+            // Buttons node.
+            let flxNode2 = new Node("div","fl-main-item");
+            container.appendChild(flxNode2);
+            let flxNode3 = new Node("div","data-button","IdButtonDecrease");
+            flxNode2.appendChild(flxNode3)
+            let flxNode4 = new Node("div","data-button","IdButtonIncrease");
+            flxNode2.appendChild(flxNode4)
+            // Delegate events for buttons CLICK event
+            // Delegate controls.
+            //this.outputControl=document.querySelector('[data-display]');
+        }    
+        // Reset counter.        
+        reset(){
+            this.counterValue=0;
+            this.refreshDisplay(this.counterValue);
+        }           
+        // Increase counter. 
+        increaseCounter(){
+            this.counterValue++;
+            this.refreshDisplay(this.counterValue);
+        }        
+        // Decrease counter.
+        decreaseCounter(){
+            this.counterValue--;
+            this.refreshDisplay(this.counterValue);
         }
-        
+        // Refresh control ( Display )
+        refreshDisplay(value){
+            let display=document.getElementById('IdDisplay');
+            display.innerText=this.getDisplayNumber(this.counterValue);
+        }        
+        // Routine to convert number to string & check if valid value
         getDisplayNumber(number){
             console.log(number);
             let resultToDisplay=0;
@@ -59,28 +51,6 @@ class Counter{
                 resultToDisplay=number.toString();
             }
             return resultToDisplay.toString();
-            /*
-            const stringNumber=number.toString();
-            const integerDigits =parseFloat(stringNumber.split('.')[0]);
-            const decimalDigits =stringNumber.split('.')[1];
-            let integerDisplay
-            if (isNaN(integerDigits)){
-                integerDisplay='';
-            } else{
-                integerDisplay=integerDigits.toLocaleString('en',{
-                    maximumFractionDigits: 0 });
-            }
-            if (decimalDigits!=null){
-                return `${integerDisplay}.${decimalDigits}`;
-            } else{
-                return integerDisplay;
-            }*/
-        }
-    
-        refreshControl(){
-            console.log(this.outputControl);
-            console.log(this.counterValue);
-            this.outputControl.innerText=this.getDisplayNumber(this.counterValue);
         }
     };
     

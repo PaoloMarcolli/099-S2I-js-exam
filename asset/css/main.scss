@@ -1,46 +1,45 @@
 /* 
-  Main File 
+  
+  Main file
 
   - config.scss   ( impostazioni di base)
-  - bootstrap/bootstrap-css-override.scss ( override del tema scuro di Bootstrap )
-  - elements/btn-scroll-to-top.scss ( pulsante per scrollare verso l'inizio della pagina )
-  - layout/footer.scss ( tutto il foglio di style per il footer ) 
-  - layout/header.scss ( tutto il foglio di style per il footer )
-  - pages/contact.scss ( tutto il foglio di style per la pagina "contattami" )
-  - pages/curriculum.scss ( tutto il foglio di style per la pagina "curriculum" )
   - pages/projects.scss ( tutto il foglio di style per la pagina "progetti" )
   - pages/who-i-am.scss ( tutto il foglio di style per la pagina "who-i-am" )     
 
 */
+@import 'config';
+@import 'layout/main','layout/header';
 @import 'controls/button';
 @import 'controls/label';
 
-.montserrat-1 {
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 900;
-    font-style: normal;
+  // Media query when the screen is less than 1152px  ( MOBILE first default stylesheet )  
+.fl-page {
+  @include base-page-properties(true);
+  @include base-flex-rule(column);
+  //align-items: center;
+  width: 100%;
+  // Responsive header inherits rules from SCSS module
+  .fl-header {
+    @include base-header-rule;
+  }  
+  // Responsive main  ( using nesting SASS syntax ) 
+  .fl-main {
+    @include base-main-rule; 
+  }   
+}
+
+/* Media query when the screen is larger than 1152px ( PC/laptop device ) */
+@media (min-width: 1024px){ 
+  /* Layout structure ( using nesting SASS syntax ) */
+  .fl-page {
+    @include base-page-properties(false);
+    // Responsive header inherits rules from SCSS module
+    .fl-header {
+      @include base-header-rule;
+    }    
+     // Responsive main  ( using nesting SASS syntax ) 
+    .fl-main {
+      @include base-main-rule; 
+    } 
   }
-  
-  *,*::before,*::after{
-    box-sizing: border-box;
-    font-family: montserrat-1;
-    font-weight: normal;
-  }
-  
-  body{
-    margin-top: 5%;
-    margin-left:25%;
-    margin-right:25%;
-    margin-bottom: 5%;
-    background: #000;
-   }
-  
-  .counter-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content:space-around;
-  }
-      
-  
+}

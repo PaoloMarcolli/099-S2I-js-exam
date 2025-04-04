@@ -1,0 +1,42 @@
+// Mixin per applicare le regole CSS per l'header
+@mixin base-header-rule {
+  background-color: $background-color-primary;
+  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  position: fixed;   
+  border-bottom: 1px solid $primary-color ; 
+  width: 100%;
+  z-index: 1;
+  ul{
+    @include base-anchor-rule();
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    a
+    {
+      padding: 20px 20px;
+      cursor: pointer;
+    }    
+  }
+
+  .logo{
+      float: left;
+      padding: 10px 20px;
+      font-size: 25px;    
+  }
+
+  li{
+        float: left;
+    }
+    li a{
+        padding: 20px 30px;
+    }
+    .menu{
+        clear: none;
+        max-height:none;
+        float: right;
+    }
+    .menu-icon{
+        display: none;
+    }
+}
