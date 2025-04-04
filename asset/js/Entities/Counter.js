@@ -19,9 +19,9 @@ class Counter{
             flxNode2.appendChild(flxNode3)
             let flxNode4 = new Node("div","data-button","IdButtonIncrease");
             flxNode2.appendChild(flxNode4)
-            // Delegate events for buttons CLICK event
-            // Delegate controls.
-            //this.outputControl=document.querySelector('[data-display]');
+            // Come si fa ad mettere la gestione dell'evento qui ????? 
+            // Ho provato a passare la callBack all'evento ma il this era undefined ???
+            // Grazie professore...
         }    
         // Reset counter.        
         reset(){
@@ -45,7 +45,7 @@ class Counter{
         }        
         // Routine to convert number to string & check if valid value
         getDisplayNumber(number){
-            console.log(number);
+            //console.log(number);
             let resultToDisplay=0;
             if (number!==undefined ){
                 resultToDisplay=number.toString();
