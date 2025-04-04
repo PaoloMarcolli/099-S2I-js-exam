@@ -85,13 +85,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Descrizione del progetto
 
 <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">
   <img src="images/js-github-image.jpeg" alt="Logo" width="850" height="600">
 </a>
-
-(https://example.com)
 
 Develop a JavaScript application that allows the user to increase and decrease the value of the counter.
 
