@@ -15,7 +15,12 @@ $primary-canvas-color: #212121;
 $secondary-canvas-color: #212121;
 /* Margins */
 $margin-default-left-rigth:2.5%;
-$margin-default-top-bottom:0.5%;
+$margin-default-top-bottom:1.25%;
+
+/* background-image */
+$background-image-normal: url('../img/background-11.jpg');
+$background-image-tile: url('../img/background-10.jpg');
+
 
 /* Mixin for test application */
 
@@ -67,6 +72,11 @@ $margin-default-top-bottom:0.5%;
     height: 100vh;
     color: $primary-color;    
     background-color: $background-color-primary;
+    @if $IsMobileDevice {
+        background: $background-image-tile ;
+    } @else {
+        background: $background-image-normal ;
+    }      
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: 100% 100%;    

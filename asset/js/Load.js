@@ -26,17 +26,15 @@ function OnDomLoaded(){
         let container=document.getElementById('IdContainer');
         console.log(container,value);
         counter= new Counter (container);
-        let button = document.getElementById('IdButtonIncrease');
-        /*
-        numberButtons.forEach( button => {
-            button.addEventListener('click', () => {
-                calculator.appendNumber(button.innerText);
-                calculator.updateDisplay();
+        let counterButtons = document.querySelectorAll('.data-button');
+        counterButtons.forEach( button => {
+            button.addEventListener('click', (event) => {
+                buttonsOnClick(event);
             });
-        });        */
-        button.addEventListener('click',(event)=>buttonsOnClick(event));
-        let button2 = document.getElementById('IdButtonDecrease');
-        button2.addEventListener('click',(event)=>buttonsOnClick(event));
+        });        
+        //button.addEventListener('click',(event)=>buttonsOnClick(event));
+        //let button2 = document.getElementById('IdButtonDecrease');
+        //button2.addEventListener('click',(event)=>buttonsOnClick(event));
         counter.reset();
         counter.refreshDisplay('IdDisplay');
     }

@@ -9,8 +9,7 @@
 */
 @import 'config';
 @import 'layout/main','layout/header';
-@import 'controls/button';
-@import 'controls/label';
+@import 'controls/button','controls/label','controls/popup';
 
   // Media query when the screen is less than 1152px  ( MOBILE first default stylesheet )  
 .fl-page {
@@ -25,6 +24,9 @@
   // Responsive main  ( using nesting SASS syntax ) 
   .fl-main {
     @include base-main-rule; 
+    .fl-container{
+      @include base-popup-rule();
+    }
   }   
 }
 

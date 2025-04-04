@@ -11,6 +11,7 @@
 /*$background-color-primary:  rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;*/
 /* Canvas colors */
 /* Margins */
+/* background-image */
 /* Mixin for test application */
 /* Show borders test */
 /* Function for mantain proportional margin,fonts,colors */
@@ -63,6 +64,7 @@
   height: 100vh;
   color: #FFFFFF !important;
   background-color: #000000 !important;
+  background: url("../img/background-10.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -119,7 +121,7 @@
   display: flex;
   flex-direction: row;
   border-radius: 10px;
-  margin: 20% 2.5%;
+  margin: 30% 2.5%;
   justify-content: center;
 }
 .fl-page .fl-main .fl-main {
@@ -136,13 +138,30 @@
   background-color: transparent;
   margin-bottom: 4%;
   width: 100%;
-  scroll-margin-top: 100px; /* Set scroll margin equal to the height of the fixed header */
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   gap: 4%;
   flex-wrap: nowrap;
+}
+@media (min-width: 1024px) {
+  .fl-page .fl-main {
+    margin: 13.125% 20%;
+  }
+}
+.fl-page .fl-main .fl-container {
+  width: auto;
+  height: auto;
+  min-width: 25%;
+  min-height: 25%;
+  padding: 20px;
+  background: rgba(14, 13, 13, 0.3); /* Sfondo semi-trasparente */
+  border: 2px solid rgba(255, 255, 255, 0.2); /* Bordo trasparente */
+  backdrop-filter: blur(10px); /* Effetto sfocato */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Ombra leggera */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
+  border-radius: 15px;
 }
 
 /* Media query when the screen is larger than 1152px ( PC/laptop device ) */
@@ -155,6 +174,7 @@
     height: 100vh;
     color: #FFFFFF !important;
     background-color: #000000 !important;
+    background: url("../img/background-11.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -208,7 +228,7 @@
     display: flex;
     flex-direction: row;
     border-radius: 10px;
-    margin: 20% 2.5%;
+    margin: 30% 2.5%;
     justify-content: center;
   }
   .fl-page .fl-main .fl-main {
@@ -225,12 +245,16 @@
     background-color: transparent;
     margin-bottom: 4%;
     width: 100%;
-    scroll-margin-top: 100px; /* Set scroll margin equal to the height of the fixed header */
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     gap: 4%;
     flex-wrap: nowrap;
+  }
+}
+@media (min-width: 1024px) and (min-width: 1024px) {
+  .fl-page .fl-main {
+    margin: 13.125% 20%;
   }
 }/*# sourceMappingURL=main.css.map */

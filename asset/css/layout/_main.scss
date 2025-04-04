@@ -2,7 +2,7 @@
 @mixin base-main-rule {
     @include base-flex-rule(row);
     border-radius: 10px;
-    margin: calc(margin-top-bottom(true) * 8) margin-left-right(true);
+    margin: calc( margin-top-bottom(false) * 8)  margin-left-right(true);
     justify-content: center;
     .fl-main {
     @include base-color-main();
@@ -14,12 +14,16 @@
             @include base-color-main();
             margin-bottom: 4%;
             width: 100%;
-            scroll-margin-top: 100px; /* Set scroll margin equal to the height of the fixed header */
             @include base-flex-rule(row);
             justify-content: center;
             align-items: center;
             gap: 4%;
             flex-wrap: nowrap;
-        }
+        }      
     } 
+
+    // Media query when the screen is larger than 1152px ( PC/laptop device ) */
+    @media (min-width: 1024px){ 
+        margin: calc( margin-top-bottom(false) * 3.5) margin-left-right(false);
+    }      
 } 
