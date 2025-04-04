@@ -1,6 +1,6 @@
 let counter;
 
-// Buttons 'click' eventHandler ( delegate used for multiple objects).
+// Buttons 'click' eventHandler ( delegate used for multiple objects ).
 function buttonsOnClick (evento) {
     switch (evento.target.id){
         case "IdButtonDecrease":
@@ -24,7 +24,6 @@ function OnDomLoaded(){
     else{
         let value=0;
         let container=document.getElementById('IdContainer');
-        console.log(container,value);
         counter= new Counter (container);
         let counterButtons = document.querySelectorAll('.data-button');
         counterButtons.forEach( button => {
