@@ -66,7 +66,8 @@ $background-image-tile: url('../img/background-10.jpg');
 }
 /* Base color */  
 @mixin base-page-properties($IsMobileDevice: true) {
-    font-family: montserrat-1;
+    font-family: 'Quicksand',serif;
+    text-shadow: 1px 1px 1px black;
     font-weight: normal;
     margin: 0;
     height: 100vh;

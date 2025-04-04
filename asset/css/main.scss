@@ -8,7 +8,7 @@
 
 */
 @import 'config';
-@import 'layout/main','layout/header';
+@import 'layout/main','layout/header','layout/footer';
 @import 'controls/button','controls/label','controls/popup';
 
   // Media query when the screen is less than 1152px  ( MOBILE first default stylesheet )  
@@ -28,6 +28,10 @@
       @include base-popup-rule();
     }
   }   
+  // Footer inherits rules from SCSS module 
+  .fl-footer {
+    @include base-footer-rule;
+  }
 }
 
 /* Media query when the screen is larger than 1152px ( PC/laptop device ) */
@@ -43,5 +47,9 @@
     .fl-main {
       @include base-main-rule; 
     } 
+    // Footer inherits rules from SCSS module 
+    .fl-footer {
+      @include base-footer-rule;
+    }    
   }
 }
