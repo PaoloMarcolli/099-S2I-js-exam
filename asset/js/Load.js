@@ -1,6 +1,6 @@
 let counter;
 
-// Buttons click delegate.
+// Buttons 'click' eventHandler ( delegate used for multiple objects).
 function buttonsOnClick (evento) {
     switch (evento.target.id){
         case "IdButtonDecrease":
@@ -14,7 +14,7 @@ function buttonsOnClick (evento) {
     };
 };
 
-// Check if page is in loading state
+// Page DOMContentLoaded eventHandler.
 function OnDomLoaded(){
     if (document.readyState==="loading"){
         /*
@@ -32,9 +32,6 @@ function OnDomLoaded(){
                 buttonsOnClick(event);
             });
         });        
-        //button.addEventListener('click',(event)=>buttonsOnClick(event));
-        //let button2 = document.getElementById('IdButtonDecrease');
-        //button2.addEventListener('click',(event)=>buttonsOnClick(event));
         counter.reset();
         counter.refreshDisplay('IdDisplay');
     }
