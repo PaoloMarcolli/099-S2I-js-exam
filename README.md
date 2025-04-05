@@ -48,9 +48,9 @@
     <br />
     <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">Demo</a>
     &middot;
-    <a href="https://paolomarcolli.github.io/099-S2I-js-exam/issues/new">Correzione bug</a>
+    <a href="https://github.com/PaoloMarcolli/099-S2I-js-exam/issues/new">Correzione bug</a>
     &middot;
-    <a href="https://paolomarcolli.github.io/099-S2I-js-exam/issues/new">Richiedi implementazioni</a>
+    <a href="https://github.com/PaoloMarcolli/099-S2I-js-exam/issues/new">Richiedi implementazioni</a>
   </p>
 </div>
 
