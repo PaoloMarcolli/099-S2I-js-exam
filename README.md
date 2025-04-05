@@ -399,4 +399,4 @@ Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e s
 [JQuery-url]: https://jquery.com 
 
 [javascript.com]: https://img.shields.io/badge/logo-javascript-blue?logo=javascript
-[javascript-com]: https://www.javascript.com/ 
+[javascript-url]: https://www.javascript.com/ 
