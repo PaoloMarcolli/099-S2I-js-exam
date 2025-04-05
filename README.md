@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of torna all'inizio link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -84,6 +84,8 @@
   </ol>
 </details>
 
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
+
 
 ## Descrizione del progetto
 <!-- Descrizione del progetto OK -->
@@ -95,7 +97,7 @@
 
 <p>L'utente, appena entrato nella pagina, visualizzerà 0 come valore del counter e avrà a disposizione due pulsanti +/- per cambiare il valore del counter.</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 
 
@@ -115,7 +117,7 @@ Questa sezione dovrebbe elencare tutti i principali framework/librerie utilizzat
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![JavaScript][JavaScript.js]][JavaScript-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 ## Avvio rapido
 <!-- GETTING STARTED OK -->
@@ -143,7 +145,7 @@ Sono ammesse tutte le funzionalità aggiuntive che si ritengono necessarie.
 
 Non necessaria. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -194,6 +196,7 @@ Metticela tutta, noi siamo qui per darti tutti i feedback necessari alla tua cre
 Il tuo progetto verrà corretto da un professionista del settore con 5 anni di esperienza in media, che ti spiegherà punto per punto cosa hai fatto bene e cosa migliorare in un feedback personalizzato.
 
 ## Parametri valutazione esame
+<p>
 La valutazione del progetto segue i seguenti criteri.
 
 Verrà valutato il funzionamento dell'applicazione con il corretto funzionamento dei pulsanti +/-.
@@ -211,6 +214,7 @@ Il contenuto delle immagini (se necessarie) all'interno dell'apposita cartella i
 Verrà valutata la corretta creazione del repository GitHub (file README).
 
 Per raggiungere il massimo del punteggio, il progetto deve soddisfare appieno tutti i requisiti descritti.
+</p>
 
 ## Utilizzo
 <!-- UTILIZZO OK -->
@@ -218,7 +222,7 @@ Usa questo spazio per mostrare esempi utili di come un progetto può essere util
 
 _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 
 ## Passaggi per sviluppo
@@ -239,8 +243,9 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
     - [ ] Contenuto Richieste tecniche.
     - [x] Contenuto Installazione.
     - [ ] Rilascio su GitHub.
+    - [ ] Presentazione.
     - [ ] Prima di inviare.
-  - [ ] Parametri valutazione esame.
+  - [x] Parametri valutazione esame.
   - [x] Contenuto Utilizzo.
   - [x] Contenuto Passaggi per sviluppo.
   - [x] Contributi.
@@ -252,7 +257,7 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 
 ## Contributi
@@ -274,7 +279,7 @@ Non dimenticare di dare una stella al progetto! Grazie ancora!
   <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 
 
@@ -282,7 +287,7 @@ Non dimenticare di dare una stella al progetto! Grazie ancora!
 <!-- LICENSE OK -->
 Distribuito sotto la licenza Unlicense. Per maggiori informazioni, vedere `LICENSE.txt`.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 ## Contatti
 <!-- CONTACT OK -->
@@ -290,7 +295,7 @@ Paolo Marcolli - [https://github.com/PaoloMarcolli](https://github.com/PaoloMarc
 
 Project Link: [https://github.com/PaoloMarcolli/099-S2I-js-exam](https://github.com/PaoloMarcolli/099-S2I-js-exam)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 
 ## Risorse utili
@@ -311,7 +316,7 @@ Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dar
 * [Build A Clock With JavaScript](https://www.youtube.com/watch?v=Ki0XXrlKlHY)
 * [Build 3 Beginner Javascript Projects in 30 mins Tutorial - HTML, CSS & JS](https://www.youtube.com/watch?v=mCQ1-iDSnto&t=1s)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 ## Bonus mentoring
 <!-- BONUS MENTORING OK -->
@@ -334,7 +339,7 @@ Non sai bene come creare un post su LinkedIn?
 <a href="https://www.start2impact.it/wp-content/uploads/2024/06/Guida-Come-creare-un-post-su-LinkedIn.pdf" target="_blank" title="">Qui trovi una breve guida che riassume come farlo in 5 punti.</a>
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 <b>Condividi su Instagram o TikTok</b>
 <p>
@@ -351,7 +356,7 @@ Se inserisci nella parte finale del tuo progetto una slide intitolata “Bonus M
 Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e saranno attribuiti soltanto alla soft skill Mentoring, ma potrà essere il tassello per attrarre nuove opportunità e ispirare altre persone, proprio come un vero Mentor ✨
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
