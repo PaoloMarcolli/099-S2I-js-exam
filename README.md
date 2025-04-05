@@ -379,7 +379,7 @@ Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e s
 [license-shield]: https://img.shields.io/github/license/PaoloMarcolli/099-S2I-js-exam.svg?style=for-the-badge
 [license-url]: https://github.com/PaoloMarcolli/099-S2I-js-exam/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/PaoloMarcolli
 [product-screenshot]: images/screenshot.png
 [HTML5.org]: https://img.shields.io/badge/HTML5-4A4A55?style=for-the-badge&logo=HTML5&logoColor=f06629
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5/ 
