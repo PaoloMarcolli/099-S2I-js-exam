@@ -37,9 +37,11 @@
   <h3 align="center">Esempio di contatore in JS</h3>
 
   <p align="center">
-    Un esempio di come creare un contatore in JS!
+    Come creare un contatore in JS da codice !
     <br />
-    ( costruzione dinamica controllo, uso delegate, arrow function, CSS with SASS )
+    ( costruzione dinamica HTML, uso delegato, arrow function, CSS with SASS )
+    <br />
+    ( start2Impact ./projects/COUNTER )
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Naviga nella guida »</strong></a>
     <br />
