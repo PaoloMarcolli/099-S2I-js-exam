@@ -70,7 +70,6 @@
       <a href="#avvio-rapido">Avvio rapido</a>
       <ul>
         <li><a href="#technical-requirements">Richieste tecniche</a></li>
-        <li><a href="#Installazione">Installazione</a></li>
         <li><a href="#rilascio-github">Rilascio su GitHub</a></li>
         <li><a href="#presentazione">Prima di inviare</a></li>
         <li><a href="#prima-di-inviare">Prima di inviare</a></li>
@@ -140,16 +139,6 @@ Una volta costruiti gli elementi con JavaScript, si dovrà implementare la funzi
 Sono ammesse tutte le funzionalità aggiuntive che si ritengono necessarie.
 </p>
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
-
-
-### Installazione
-<!-- INSTALLATION OK -->
-
-Non necessaria. 
-
-<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
-
-<!-- USAGE EXAMPLES -->
 
 
 ### Rilascio GitHub
@@ -255,9 +244,7 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
   - [x] Contenuto Descrizione del progetto.
   - [ ] Contenuto Tecnologie di sviluppo.
   - [x] Contenuto Avvio rapido.
-    - [x] Contenuto Prerequisiti.
     - [ ] Contenuto Richieste tecniche.
-    - [x] Contenuto Installazione.
     - [ ] Rilascio su GitHub.
     - [ ] Presentazione.
     - [ ] Prima di inviare.
