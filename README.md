@@ -69,7 +69,7 @@
     <li>
       <a href="#avvio-rapido">Avvio rapido</a>
       <ul>
-        <li><a href="#technical-requirements">Richieste tecniche</a></li>
+        <li><a href="#spefiche-tecniche-richieste">Spefiche tecniche richieste</a></li>
         <li><a href="#rilascio-github">Rilascio su GitHub</a></li>
         <li><a href="#presentazione">Prima di inviare</a></li>
         <li><a href="#prima-di-inviare">Prima di inviare</a></li>
@@ -127,7 +127,7 @@ dal relatore.
 
 
 
-### Technical requirements
+### Spefiche tecniche richieste 
 <p>
 L'applicazione deve essere sviluppata con JavaScript. 
 Non è permesso l'utilizzo di Jquery, non è permesso l'utilizzo di nessun framework (React, Angular, Vue o altri).
