@@ -78,7 +78,7 @@
     <li><a href="#contributing">Contributi</a></li>
     <li><a href="#license">Licenza</a></li>
     <li><a href="#contact">Contatti</a></li>
-    <li><a href="#acknowledgments">Collegamenti</a></li>
+    <li><a href="#risorse-utili">Risorse utili</a></li>
   </ol>
 </details>
 
@@ -315,7 +315,7 @@ This is an optional step: the points will not affect the total score and will on
 
 <!-- ACKNOWLEDGMENTS OK -->
 
-## Acknowledgments
+## Risorse utili
 
 Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dare credito. Ho incluso alcune delle mie preferite per dare il via alle cose!
 
