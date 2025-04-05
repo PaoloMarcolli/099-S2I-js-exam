@@ -1,10 +1,10 @@
 /* 
   
-  Main file
+  Main file for stylesheet
 
-  - config.scss   ( impostazioni di base)
-  - pages/projects.scss ( tutto il foglio di style per la pagina "progetti" )
-  - pages/who-i-am.scss ( tutto il foglio di style per la pagina "who-i-am" )     
+  - config.scss                   ( base properties, variables,margin ecc.....   )
+  - layout/main,header,footer     ( stylesheet for section of page )
+  - controls/button,label,popup   ( tutto il foglio di style per la pagina "who-i-am" )     
 
 */
 @import 'config';
