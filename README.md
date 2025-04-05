@@ -180,35 +180,34 @@ Nella presentazione includi tutte le informazioni che possono essere utili per l
 Se la presentazione non presenta il link al repository GitHub, il progetto non verrà corretto.
 
 ### Before sending
-You are one step away from your goal!
+Sei a un passo dal tuo obiettivo!
 
-Upload your file below.
+Carica il tuo file qui sotto.
 
-The file name must be structured like this:
+Il nome del file deve essere strutturato in questo modo:
 
-“Name Surname JavaScript Project”.
+“Progetto JavaScript di Nome Cognome”.
 
-We can’t wait to test your skills and remember that the hard part is just getting started, then it’s all downhill.
+Non vediamo l’ora di verificare le tue competenze e ricorda che il difficile è solo iniziare, poi la strada è tutta in discesa.
 
-Give it your all, we are here to give you all the feedback you need to grow while waiting to see you take flight!
+Metticela tutta, noi siamo qui per darti tutti i feedback necessari alla tua crescita nell’attesa di vederti spiccare il volo!
 
-Your project will be corrected by a professional in the sector with an average of 5 years of experience, who will explain to you point by point what you did well and what to improve in personalized feedback.
+Il tuo progetto verrà corretto da un professionista del settore con 5 anni di esperienza in media, che ti spiegherà punto per punto cosa hai fatto bene e cosa migliorare in un feedback personalizzato.
 
-### Prerequisites
-
+### Prerequisiti
+<!-- PREREQUISITES OK -->
 Non necessario.
 
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-Not necessary. 
+### Installazione
+<!-- INSTALLATION OK -->
+_Di seguito è riportato un esempio di come puoi istruire il tuo pubblico sull'installazione e la configurazione della tua app. Questo modello non si basa su dipendenze o servizi esterni._
+Non necessaria. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## Utilizzo
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -230,15 +229,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   - [ ] Contenuto Descrizione del progetto.
   - [ ] Contenuto Tecnologie di sviluppo.
   - [ ] Contenuto Getting Started.
-  - [ ] Contenuto Prerequisiti.
+  - [x] Contenuto Prerequisiti.
   - [ ] Contenuto Richieste tecniche.
-  - [ ] Contenuto Installazione.
+  - [x] Contenuto Installazione.
   - [ ] Rilascio su GitHub.
   - [ ] Prima di inviare.
   - [ ] Parametri valutazione esame.
   - [ ] Utilizzo.
   - [x] Passaggi per sviluppo.
-  - [ ] Contributi.
+  - [x] Contributi.
   - [x] Licenza.
   - [x] Contatti.
   - [x] Risorse utili.
@@ -275,13 +274,13 @@ Non dimenticare di dare una stella al progetto! Grazie ancora!
 
 
 
-## License
+## Licenza
 <!-- LICENSE OK -->
 Distribuito sotto la licenza Unlicense. Per maggiori informazioni, vedere `LICENSE.txt`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
+## Contatti
 <!-- CONTACT OK -->
 Paolo Marcolli - [https://github.com/PaoloMarcolli](https://github.com/PaoloMarcolli) - paolo.marcolli.fl@gmail.com
 
