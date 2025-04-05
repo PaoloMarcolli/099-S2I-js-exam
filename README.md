@@ -57,13 +57,13 @@
   <summary>Lista dei contenuti</summary>
   <ol>
     <li>
-      <a href="#Descrizione-del-progetto">Descrizione del progetto</a>
+      <a href="#tescrizione-del-progetto">Descrizione del progetto</a>
       <ul>
-        <li><a href="#Tecnologie-di-sviluppo">Tecnologie di sviluppo</a></li>
+        <li><a href="#tecnologie-di-sviluppo">Tecnologie di sviluppo</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#avvio-rapido">Avvio rapido</a>
       <ul>
         <li><a href="#Prerequisiti">Prerequisiti</a></li>
         <li><a href="#technical-requirements">Richieste tecniche</a></li>
@@ -99,7 +99,7 @@
 
 
 ### Tecnologie di sviluppo
-<!-- Descrizione del progetto OK -->
+<!-- Tecnologie di sviluppo OK -->
 <p>
 Questa sezione dovrebbe elencare tutti i principali framework/librerie utilizzati per avviare il progetto. Lascia eventuali componenti aggiuntivi/plugin per la sezione dei ringraziamenti. Ecco alcuni esempi.
 </p>
@@ -116,10 +116,12 @@ Questa sezione dovrebbe elencare tutti i principali framework/librerie utilizzat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
+## Avvio rapido
 <!-- GETTING STARTED OK -->
+<p>
 Il progetto funziiona esclusivamente da web, non necessita librerie di terze parti, basta collagarsi all'url <a href="https://paolomarcolli.github.io/099-S2I-js-exam">./project/COUNTER</a> ed è fatta. Il sito è totalmente responsivo realizzato usando la sola MSFlex, senza alcun framework come richiesto
 dal relatore.  
+<p>
 
 ### Technical requirements
 L'applicazione deve essere sviluppata con JavaScript. 
