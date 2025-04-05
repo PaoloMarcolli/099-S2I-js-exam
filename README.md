@@ -339,7 +339,7 @@ Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dar
 <!-- BONUS OK -->
 ## Bonus mentoring
 
-<h6>Pubblica su LinkedIn</h6>
+<b>Pubblica su LinkedIn</b>
 Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
 
 Hai mai pensato che ogni tua scoperta e ogni sfida superata durante il Master potrebbe ispirare decine di altre persone e attrarre opportunità inaspettate?
@@ -356,7 +356,7 @@ Non sai bene come creare un post su LinkedIn?
 
 <a href="https://www.start2impact.it/wp-content/uploads/2024/06/Guida-Come-creare-un-post-su-LinkedIn.pdf" target="_blank" title="">Qui trovi una breve guida che riassume come farlo in 5 punti.</a>
 
-<h1>Condividi su Instagram o TikTok</h1>
+<b>Condividi su Instagram o TikTok</b>
 Sono Instagram o TikTok i social in cui senti di voler trasmettere la tua voce?
 
 In questo caso, puoi pubblicare una o più stories o contenuti che raccontino il progetto a cui stai lavorando.
