@@ -1,27 +1,3 @@
-/* 
-
-  Main file for stylesheet
-
-  - config.scss                   ( base properties, variables,margin ecc.....   )
-  - layout/main,header,footer     ( stylesheet for section of page )
-  - controls/button,label,popup   ( tutto il foglio di style per la pagina "who-i-am" )     
-
-*/
-/* Base colors */
-/*$background-color-primary:  rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;*/
-/* Canvas colors */
-/* Margins */
-/* background-image */
-/* Mixin for test application */
-/* Show borders test */
-/* Function for mantain proportional margin,fonts,colors */
-/* Get margin left,right responsive function */
-/* Get margin top,bottom responsive function */
-/* Base color */
-/* Base color */
-/* Base color */
-/* Anchor base rules */
-/* Function add flex-box */
 .data-button {
   display: block;
   width: 80px;
