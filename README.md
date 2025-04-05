@@ -236,18 +236,18 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
 - [x] Aggiunta del file README.md, immagini, risorse, ecc....
 - [x] Pubblicazione su GitHub.
 - [x] Sviluppo applicazione.
-  - [ ] Controllo se l'applicazione rispecchia le richieste delle progetto dell'esame.
+  - [x] Controllo se l'applicazione rispecchia le richieste delle progetto dell'esame.
   - [x] Collaudo.
-  - [ ] Ottimizzazioni / semplificazione codice ( se necessarie ).
-  - [ ] Aggiunta commenti ( se necessarie ).
+  - [x] Ottimizzazioni / semplificazione codice ( se necessarie ).
+  - [x] Aggiunta commenti ( se necessarie ).
 - [x] Completa il README.md file.
   - [x] Contenuto Descrizione del progetto.
   - [x] Contenuto Tecnologie di sviluppo.
   - [x] Contenuto Avvio rapido.
     - [x] Contenuto Spefiche tecniche richieste.
     - [x] Rilascio su GitHub.
-    - [ ] Presentazione.
-    - [ ] Prima di inviare.
+    - [x] Presentazione.
+    - [x] Prima di inviare.
   - [x] Parametri valutazione esame.
   - [x] Contenuto Utilizzo.
   - [x] Contenuto Passaggi per sviluppo.
