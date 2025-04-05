@@ -353,6 +353,7 @@ Non sai bene come creare un post su LinkedIn?
 </p>
 
 <b>Condividi su Instagram o TikTok</b>
+<p>
 Sono Instagram o TikTok i social in cui senti di voler trasmettere la tua voce?
 
 In questo caso, puoi pubblicare una o più stories o contenuti che raccontino il progetto a cui stai lavorando.
@@ -364,3 +365,4 @@ Puoi scegliere di condividere la tipologia di contenuto che preferisci, e taggar
 Se inserisci nella parte finale del tuo progetto una slide intitolata “Bonus Mentoring” contenente uno screenshot dei contenuti creati, su LinkedIn, Instagram o TikTok, guadagnerai 100 punti bonus nella soft skill Mentoring.
 
 Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e saranno attribuiti soltanto alla soft skill Mentoring, ma potrà essere il tassello per attrarre nuove opportunità e ispirare altre persone, proprio come un vero Mentor ✨
+</p>
