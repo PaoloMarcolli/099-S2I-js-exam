@@ -31,22 +31,23 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/images/logo-250x250-white.png" alt="Logo" width="200" height="200">
+    <img src="/images/logo-250x250-white.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Esempio di contatore in JS</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Un esempio di come creare un contatore in JS!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    ( costruzione dinamica controllo, uso delegate, arrow function, CSS with SASS )
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Naviga nella guida »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">Demo</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://paolomarcolli.github.io/099-S2I-js-exam/issues/new?labels=bug&template=bug-report---.md">Correzione bug</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://paolomarcolli.github.io/099-S2I-js-exam/issues/new?labels=enhancement&template=feature-request---.md">Richiedi implementazioni</a>
   </p>
 </div>
 
