@@ -196,7 +196,7 @@ Your project will be corrected by a professional in the sector with an average o
 
 ### Prerequisites
 
-Not necessary.
+Non necessario.
 
 ### Installation
 
@@ -240,7 +240,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   - [ ] Passaggi per sviluppo.
   - [ ] Contributi.
   - [x] Licenza.
-  - [ ] Contatti.
+  - [x] Contatti.
   - [x] Risorse utili.
   - [x] Bonus Mentoring.
 - [ ] Traduci tutto in italiano.
@@ -286,10 +286,10 @@ Distribuito sotto la licenza Unlicense. Per maggiori informazioni, vedere `LICEN
 <!-- CONTACT -->
 
 ## Contact
+<!-- CONTACT OK -->
+Paolo Marcolli - [https://github.com/PaoloMarcolli](https://github.com/PaoloMarcolli) - paolo.marcolli.fl@gmail.com
 
-Paolo Marcolli - [@your_twitter](https://twitter.com/your_username) - paolo.marcolli.fl@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/PaoloMarcolli/099-S2I-js-exam](https://github.com/PaoloMarcolli/099-S2I-js-exam)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
