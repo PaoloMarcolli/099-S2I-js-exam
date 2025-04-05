@@ -46,7 +46,8 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Naviga nella guida »</strong></a>
     <br />
     <br />
-    <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">Demo</a>
+    <a href="https://paolomarcolli.github.io/099-S2I-js-exam/"><h2>demo CONTATORE<h2></a>
+    <br />
     &middot;
     <a href="https://github.com/PaoloMarcolli/099-S2I-js-exam/issues/new">Correzione bug</a>
     &middot;
@@ -245,7 +246,7 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
   - [ ] Contenuto Tecnologie di sviluppo.
   - [x] Contenuto Avvio rapido.
     - [x] Contenuto Spefiche tecniche richieste.
-    - [ ] Rilascio su GitHub.
+    - [x] Rilascio su GitHub.
     - [ ] Presentazione.
     - [ ] Prima di inviare.
   - [x] Parametri valutazione esame.
