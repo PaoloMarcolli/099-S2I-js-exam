@@ -89,7 +89,7 @@
 ## Descrizione del progetto
 <!-- Descrizione del progetto OK -->
 <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">
-  <img src="images/screenshoot.jpeg" alt="Logo" width="850" height="500">
+  <img src="readme-img/screenshoot.jpeg" alt="Logo" width="850" height="500">
 </a>
 <sub><b>* screenshoot</b></sub>
 <br />
