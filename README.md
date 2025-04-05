@@ -108,18 +108,13 @@
 ### Tecnologie di sviluppo
 <!-- Tecnologie di sviluppo OK -->
 <p>
-Questa sezione dovrebbe elencare tutti i principali framework/librerie utilizzati per avviare il progetto. Lascia eventuali componenti aggiuntivi/plugin per la sezione dei ringraziamenti. Ecco alcuni esempi.
+Questa sono le principali framework/librerie utilizzati per avviare il progetto ( devono rispecchiare le specifiche indicate nella prova di esame ). 
 </p>
 
 * [![JavaScript][JavaScript.js]][JavaScript-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![JavaScript][JavaScript.js]][JavaScript-url]
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
