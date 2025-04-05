@@ -339,7 +339,7 @@ Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dar
 <!-- BONUS OK -->
 ## Bonus mentoring
 
-<h1>Pubblica su LinkedIn</h1>
+<h6>Pubblica su LinkedIn</h6>
 Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
 
 Hai mai pensato che ogni tua scoperta e ogni sfida superata durante il Master potrebbe ispirare decine di altre persone e attrarre opportunità inaspettate?
