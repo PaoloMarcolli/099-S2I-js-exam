@@ -280,39 +280,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- BONUS -->
-### Bonus mentoring
-
-Publish on LinkedIn
-Turn your studies into opportunities thanks to LinkedIn!
-
-Have you ever thought that every discovery you make and every challenge you overcome during your Master's degree could inspire dozens of other people and attract unexpected opportunities?
-
-On LinkedIn, your learning journey becomes your most powerful business card with companies.
-
-Publish your projects, share your obstacles and your victories, and let your journey speak for you.
-
-It's not just a way to celebrate your progress: it's your chance to attract life-changing opportunities and inspire other people to find their way.
-
-Remember, behind every great professional there is always a story of growth.
-
-Not sure how to create a post on LinkedIn?
-
-<a href="https://www.start2impact.it/wp-content/uploads/2024/06/Guida-Come-creare-un-post-su-LinkedIn.pdf" target="_blank" title="">Here is a short guide that summarizes how to do it in 5 points.</a>
-
-Share on Instagram or TikTok
-Are Instagram or TikTok the social networks where you feel you want to transmit your voice?
-
-In this case, you can publish one or more stories or content that tell the project you are working on.
-
-What for you is a day of study, for others can become the spark that ignites passion and the desire to get involved!
-
-You can choose to share the type of content you prefer, and tag us.
-
-If you insert a slide titled "Bonus Mentoring" containing a screenshot of the content created, on LinkedIn, Instagram or TikTok, in the final part of your project, you will earn 100 bonus points in the Mentoring soft skill.
-
-This is an optional step: the points will not affect the total score and will only be attributed to the Mentoring soft skill, but it could be the piece to attract new opportunities and inspire other people, just like a real Mentor ✨
-
 <!-- ACKNOWLEDGMENTS OK -->
 
 ## Risorse utili
@@ -368,3 +335,36 @@ Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dar
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+<!-- BONUS OK -->
+## Bonus mentoring
+
+<h1>Pubblica su LinkedIn</h1>
+Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
+
+Hai mai pensato che ogni tua scoperta e ogni sfida superata durante il Master potrebbe ispirare decine di altre persone e attrarre opportunità inaspettate?
+
+Su LinkedIn, il tuo viaggio di apprendimento diventa il tuo biglietto da visita più potente con le aziende.
+
+Pubblica i tuoi progetti, condividi i tuoi ostacoli e le tue vittorie, e lascia che il tuo percorso parli per te.
+
+Non è solo un modo per celebrare i tuoi progressi: è la tua chance di attrarre opportunità che ti cambieranno la vita e di ispirare altre persone a trovare la loro strada.
+
+Ricorda, dietro ogni grande professionista c'è sempre una storia di crescita.
+
+Non sai bene come creare un post su LinkedIn?
+
+<a href="https://www.start2impact.it/wp-content/uploads/2024/06/Guida-Come-creare-un-post-su-LinkedIn.pdf" target="_blank" title="">Qui trovi una breve guida che riassume come farlo in 5 punti.</a>
+
+<h1>Condividi su Instagram o TikTok</h1>
+Sono Instagram o TikTok i social in cui senti di voler trasmettere la tua voce?
+
+In questo caso, puoi pubblicare una o più stories o contenuti che raccontino il progetto a cui stai lavorando.
+
+Quello che per te è un giorno di studio, per altri può diventare la scintilla che accende passione e voglia di mettersi in gioco!
+
+Puoi scegliere di condividere la tipologia di contenuto che preferisci, e taggarci.
+
+Se inserisci nella parte finale del tuo progetto una slide intitolata “Bonus Mentoring” contenente uno screenshot dei contenuti creati, su LinkedIn, Instagram o TikTok, guadagnerai 100 punti bonus nella soft skill Mentoring.
+
+Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e saranno attribuiti soltanto alla soft skill Mentoring, ma potrà essere il tassello per attrarre nuove opportunità e ispirare altre persone, proprio come un vero Mentor ✨
