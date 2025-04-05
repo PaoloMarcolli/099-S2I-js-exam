@@ -84,9 +84,6 @@
   </ol>
 </details>
 
-<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
-
-
 ## Descrizione del progetto
 <!-- Descrizione del progetto OK -->
 <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">
@@ -126,11 +123,18 @@ Il progetto funziiona esclusivamente da web, non necessita librerie di terze par
 dal relatore.  
 <p>
 
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
+
+
 ### Prerequisiti
 <!-- PREREQUISITES OK -->
 Non necessario.
 
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
+
+
 ### Technical requirements
+<p>
 L'applicazione deve essere sviluppata con JavaScript. 
 Non è permesso l'utilizzo di Jquery, non è permesso l'utilizzo di nessun framework (React, Angular, Vue o altri).
 È permesso l'utilizzo, se necessario, di librerie esterne JavaScript.
@@ -139,6 +143,9 @@ I pulsanti +/- e la visualizzazione del valore del counter devono essere costrui
 Una volta costruiti gli elementi con JavaScript, si dovrà implementare la funzione che aggiungerà e diminuirà il valore del counter.
 
 Sono ammesse tutte le funzionalità aggiuntive che si ritengono necessarie.
+</p>
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
+
 
 ### Installazione
 <!-- INSTALLATION OK -->
@@ -152,6 +159,7 @@ Non necessaria.
 
 ### Rilascio GitHub
 <!-- GITHUB-RELEASE OK -->
+<p>
 Il progetto deve essere committato nel tuo repository GitHub.
 
 Il repository GitHub deve contenere tutto il codice sorgente dell'applicazione e il file README contenente la descrizione del progetto, screenshot dell'applicazione (se necessario) e il link, ben visibile, di dove provare l'applicazione.
@@ -169,8 +177,12 @@ Prima di inviare il progetto controlla che l'applicazione funzioni correttamente
 Se nel repository GitHub non è presente tutto il codice sorgente dell'applicazione, il progetto non verrà corretto.
 
 Ti consigliamo infine di deployare il progetto su qualsiasi webhost gratuito (per esempio Netlify e Firebase). Questo sarà fondamentale per condividere il progetto e renderlo fruibile da chiunque.
+</p>
+
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 ### Presentazione
+<p>
 Crea una presentazione del tuo progetto in formato PDF e inserisci il link al repository GitHub.
 
 Per la presentazione puoi utilizzare qualsiasi tool; noi consigliamo Canva e beautiful.ai.
@@ -178,9 +190,13 @@ Per la presentazione puoi utilizzare qualsiasi tool; noi consigliamo Canva e bea
 Nella presentazione includi tutte le informazioni che possono essere utili per la correzione.
 
 Se la presentazione non presenta il link al repository GitHub, il progetto non verrà corretto.
+</p>
+
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 ### Prima di inviare
 <!-- BEFORE-SENDING OK -->
+<p>
 Sei a un passo dal tuo obiettivo!
 
 Carica il tuo file qui sotto.
@@ -194,6 +210,9 @@ Non vediamo l’ora di verificare le tue competenze e ricorda che il difficile �
 Metticela tutta, noi siamo qui per darti tutti i feedback necessari alla tua crescita nell’attesa di vederti spiccare il volo!
 
 Il tuo progetto verrà corretto da un professionista del settore con 5 anni di esperienza in media, che ti spiegherà punto per punto cosa hai fatto bene e cosa migliorare in un feedback personalizzato.
+</p>
+
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 ## Parametri valutazione esame
 <p>
@@ -215,6 +234,8 @@ Verrà valutata la corretta creazione del repository GitHub (file README).
 
 Per raggiungere il massimo del punteggio, il progetto deve soddisfare appieno tutti i requisiti descritti.
 </p>
+
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 ## Utilizzo
 <!-- UTILIZZO OK -->
@@ -272,6 +293,8 @@ Non dimenticare di dare una stella al progetto! Grazie ancora!
 3. Esegui il commit delle tue modifiche (`git commit -m 'Add some AmazingFeature'`)
 4. Esegui il push sul Branch (`git push origin feature/AmazingFeature`)
 5. Apri una Pull Request
+
+<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 ### Top contributors:
 
