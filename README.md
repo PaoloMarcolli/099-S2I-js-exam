@@ -244,7 +244,7 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
   - [x] Contenuto Descrizione del progetto.
   - [ ] Contenuto Tecnologie di sviluppo.
   - [x] Contenuto Avvio rapido.
-    - [ ] Contenuto Richieste tecniche.
+    - [x] Contenuto Spefiche tecniche richieste.
     - [ ] Rilascio su GitHub.
     - [ ] Presentazione.
     - [ ] Prima di inviare.
@@ -256,9 +256,11 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
   - [x] Contatti.
   - [x] Risorse utili.
   - [x] Bonus Mentoring.
-- [ ] Traduci tutto in italiano.
+- [x] Traduci tutto in italiano.
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
+Per un elenco completo delle funzionalità proposte (e dei problemi noti), consultare le [problematiche aperte](https://paolomarcolli.github.io/099-S2I-js-exam/issues/issues).
+
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
