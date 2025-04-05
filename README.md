@@ -57,7 +57,7 @@
   <summary>Lista dei contenuti</summary>
   <ol>
     <li>
-      <a href="#tescrizione-del-progetto">Descrizione del progetto</a>
+      <a href="#descrizione-del-progetto">Descrizione del progetto</a>
       <ul>
         <li><a href="#tecnologie-di-sviluppo">Tecnologie di sviluppo</a></li>
       </ul>
@@ -65,19 +65,20 @@
     <li>
       <a href="#avvio-rapido">Avvio rapido</a>
       <ul>
-        <li><a href="#Prerequisiti">Prerequisiti</a></li>
+        <li><a href="#prerequisiti">Prerequisiti</a></li>
         <li><a href="#technical-requirements">Richieste tecniche</a></li>
         <li><a href="#Installazione">Installazione</a></li>
-        <li><a href="#Rilascio-GitHub">Rilascio su GitHub</a></li>
-        <li><a href="#Prima-di-inviare">Prima di inviare</a></li>
+        <li><a href="#rilascio-github">Rilascio su GitHub</a></li>
+        <li><a href="#presentazione">Prima di inviare</a></li>
+        <li><a href="#prima-di-inviare">Prima di inviare</a></li>
       </ul>
     </li>
-    <li><a href="#exam-evalutation">Parametri valutazione esame</a></li>
-    <li><a href="#usage">Utilizzo</a></li>
-    <li><a href="#roadmap">Passaggi per sviluppo</a></li>
-    <li><a href="#contributing">Contributi</a></li>
-    <li><a href="#license">Licenza</a></li>
-    <li><a href="#contact">Contatti</a></li>
+    <li><a href="#parametri-valutazione-esame">Parametri valutazione esame</a></li>
+    <li><a href="#utilizzo">Utilizzo</a></li>
+    <li><a href="#passaggi-per-sviluppo">Passaggi per sviluppo</a></li>
+    <li><a href="#contributi">Contributi</a></li>
+    <li><a href="#licenza">Licenza</a></li>
+    <li><a href="#contatti">Contatti</a></li>
     <li><a href="#risorse-utili">Risorse utili</a></li>
     <li><a href="#bonus-mentoring">Bonus Mentoring</a></li>
   </ol>
@@ -123,6 +124,10 @@ Il progetto funziiona esclusivamente da web, non necessita librerie di terze par
 dal relatore.  
 <p>
 
+### Prerequisiti
+<!-- PREREQUISITES OK -->
+Non necessario.
+
 ### Technical requirements
 L'applicazione deve essere sviluppata con JavaScript. 
 Non è permesso l'utilizzo di Jquery, non è permesso l'utilizzo di nessun framework (React, Angular, Vue o altri).
@@ -133,24 +138,15 @@ Una volta costruiti gli elementi con JavaScript, si dovrà implementare la funzi
 
 Sono ammesse tutte le funzionalità aggiuntive che si ritengono necessarie.
 
-### Exam Evalutation
-La valutazione del progetto segue i seguenti criteri.
+### Installazione
+<!-- INSTALLATION OK -->
 
-Verrà valutato il funzionamento dell'applicazione con il corretto funzionamento dei pulsanti +/-.
+Non necessaria. 
 
-Verrà valutata la corretta implementazione dei pulsanti +/- e della visualizzazione del valore counter attraverso l'utilizzo di JavaScript.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Verrà valutata la bontà del codice scritto. Ci si aspetta una giusta suddivisione e implementazione delle logiche del progetto (cambio valore, visualizzazione valore) in diverse funzioni e, se necessario, in diversi file. 
+<!-- USAGE EXAMPLES -->
 
-Verrà valutata la bontà della struttura del progetto: 
-
-Il contenuto HTML nell'apposito file index.html
-Il contenuto del codice JavaScript all'interno di file .js contenuto nella cartella js
-Il contenuto dello stile del progetto all'interno del file .css contenuti nella cartella css
-Il contenuto delle immagini (se necessarie) all'interno dell'apposita cartella img
-Verrà valutata la corretta creazione del repository GitHub (file README).
-
-Per raggiungere il massimo del punteggio, il progetto deve soddisfare appieno tutti i requisiti descritti.
 
 ### Rilascio GitHub
 <!-- GITHUB-RELEASE OK -->
@@ -197,18 +193,24 @@ Metticela tutta, noi siamo qui per darti tutti i feedback necessari alla tua cre
 
 Il tuo progetto verrà corretto da un professionista del settore con 5 anni di esperienza in media, che ti spiegherà punto per punto cosa hai fatto bene e cosa migliorare in un feedback personalizzato.
 
-### Prerequisiti
-<!-- PREREQUISITES OK -->
-Non necessario.
+## Parametri valutazione esame
+La valutazione del progetto segue i seguenti criteri.
 
-### Installazione
-<!-- INSTALLATION OK -->
+Verrà valutato il funzionamento dell'applicazione con il corretto funzionamento dei pulsanti +/-.
 
-Non necessaria. 
+Verrà valutata la corretta implementazione dei pulsanti +/- e della visualizzazione del valore counter attraverso l'utilizzo di JavaScript.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Verrà valutata la bontà del codice scritto. Ci si aspetta una giusta suddivisione e implementazione delle logiche del progetto (cambio valore, visualizzazione valore) in diverse funzioni e, se necessario, in diversi file. 
 
-<!-- USAGE EXAMPLES -->
+Verrà valutata la bontà della struttura del progetto: 
+
+Il contenuto HTML nell'apposito file index.html
+Il contenuto del codice JavaScript all'interno di file .js contenuto nella cartella js
+Il contenuto dello stile del progetto all'interno del file .css contenuti nella cartella css
+Il contenuto delle immagini (se necessarie) all'interno dell'apposita cartella img
+Verrà valutata la corretta creazione del repository GitHub (file README).
+
+Per raggiungere il massimo del punteggio, il progetto deve soddisfare appieno tutti i requisiti descritti.
 
 ## Utilizzo
 <!-- UTILIZZO OK -->
@@ -219,25 +221,28 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Roadmap
+## Passaggi per sviluppo
 <!-- ROADMAP OK -->
-- [x] Creating the GitHub repository.
-- [x] Adding the README file, images and other resources...
-- [x] Publishing to GitHub.
-- [ ] Application development.
-- [ ] Checking if the application meets the required technical specifications.
+- [x] Creazione repository GitHub.
+- [x] Aggiunta del file README.md, immagini, risorse, ecc....
+- [x] Pubblicazione su GitHub.
+- [x] Sviluppo applicazione.
+  - [ ] Controllo se l'applicazione rispecchia le richieste delle progetto dell'esame.
+  - [x] Collaudo.
+  - [ ] Ottimizzazioni / semplificazione codice ( se necessarie ).
+  - [ ] Aggiunta commenti ( se necessarie ).
 - [x] Completa il README.md file.
-  - [ ] Contenuto Descrizione del progetto.
+  - [x] Contenuto Descrizione del progetto.
   - [ ] Contenuto Tecnologie di sviluppo.
-  - [ ] Contenuto Getting Started.
-  - [x] Contenuto Prerequisiti.
-  - [ ] Contenuto Richieste tecniche.
-  - [x] Contenuto Installazione.
-  - [ ] Rilascio su GitHub.
-  - [ ] Prima di inviare.
+  - [x] Contenuto Avvio rapido.
+    - [x] Contenuto Prerequisiti.
+    - [ ] Contenuto Richieste tecniche.
+    - [x] Contenuto Installazione.
+    - [ ] Rilascio su GitHub.
+    - [ ] Prima di inviare.
   - [ ] Parametri valutazione esame.
-  - [ ] Utilizzo.
-  - [x] Passaggi per sviluppo.
+  - [x] Contenuto Utilizzo.
+  - [x] Contenuto Passaggi per sviluppo.
   - [x] Contributi.
   - [x] Licenza.
   - [x] Contatti.
@@ -250,8 +255,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-## Contributing
+## Contributi
 <!-- CONTRIBUTI OK -->
 I contributi sono ciò che rende la comunità open source un posto così straordinario per imparare, ispirare e creare. Ogni contributo che fai è **fortemente apprezzato**.
 
@@ -271,7 +275,6 @@ Non dimenticare di dare una stella al progetto! Grazie ancora!
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
