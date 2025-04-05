@@ -110,9 +110,9 @@ Questa sono le principali framework/librerie utilizzati per avviare il progetto 
 </p>
 
 * [![JavaScript][javascript.com]][Javascript-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![SASS][SASS.com]][SASS-url]
+* [![CSS3][CSS3.com]][CSS3-url]
+* [![HTML5][HTML5.org]][HTML5-url]
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
@@ -381,7 +381,7 @@ Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e s
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[HTML5.com]: https://img.shields.io/badge/HTML5-4A4A55?style=for-the-badge&logo=HTML5&logoColor=FF3E00
+[HTML5.org]: https://img.shields.io/badge/HTML5-4A4A55?style=for-the-badge&logo=HTML5&logoColor=FF3E00
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5/ 
 [CSS3.com]: https://img.shields.io/badge/CSS3-4A4A55?style=for-the-badge&logo=CSS3&logoColor=FF3E00
 [CSS3-url]: https://css3.com/ 
