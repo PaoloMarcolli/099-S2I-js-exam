@@ -69,7 +69,6 @@
     <li>
       <a href="#avvio-rapido">Avvio rapido</a>
       <ul>
-        <li><a href="#prerequisiti">Prerequisiti</a></li>
         <li><a href="#technical-requirements">Richieste tecniche</a></li>
         <li><a href="#Installazione">Installazione</a></li>
         <li><a href="#rilascio-github">Rilascio su GitHub</a></li>
@@ -127,12 +126,6 @@ dal relatore.
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
-
-### Prerequisiti
-<!-- PREREQUISITES OK -->
-Non necessario.
-
-<p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 
 ### Technical requirements
