@@ -313,20 +313,25 @@ If you insert a slide titled "Bonus Mentoring" containing a screenshot of the co
 
 This is an optional step: the points will not affect the total score and will only be attributed to the Mentoring soft skill, but it could be the piece to attract new opportunities and inspire other people, just like a real Mentor ✨
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS OK -->
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dare credito. Ho incluso alcune delle mie preferite per dare il via alle cose!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Javascript Tutorial Italiano 01 - Introduzione a JS](https://www.youtube.com/watch?v=84TYC44ezIU&t=2s)
+* [Javascript Tutorial Italiano 09 - Introduzione alle Funzioni](https://www.youtube.com/watch?v=YR6AG_oA-fs&t=1s)
+* [Javascript Tutorial Italiano 10 - Funzioni personalizzate](https://www.youtube.com/watch?v=WyC678zya3E)
+* [Javascript Tutorial Italiano 11 - Return valori dalle Funzioni](https://www.youtube.com/watch?v=zq6chg-0Nx0&t=2s)
+* [Javascript Tutorial Italiano 12 - Introduzione agli EVENTI](https://www.youtube.com/watch?v=qQHGRStxxJg&t=1s)
+* [How To Make Your Own JavaScript Events](https://www.youtube.com/watch?v=DzZXRvk3EGg&t=3s)
+* [Learn JavaScript Event Listeners In 18 Minutes](https://www.youtube.com/watch?v=XF1_MlZ5l6M&t=2s)
+* [User input in JavaScript ⌨️ 【4 minutes】](https://www.youtube.com/watch?v=fARJwGqdbKQ&t=1s)
+* [JavaScript Tutorial - "DOMContentLoaded" event | When is it safe to interact with the DOM?](https://www.youtube.com/watch?v=m1DH8ljCqzo&t=2s)
+* [JavaScript Tutorial For Beginners #41 - Window onLoad Event](https://www.youtube.com/watch?v=RVA4HoEE_q8&t=1s)
+* [Build A Calculator With JavaScript Tutorial](https://www.youtube.com/watch?v=j59qQ7YWLxw&t=4s)
+* [Build A Clock With JavaScript](https://www.youtube.com/watch?v=Ki0XXrlKlHY)
+* [Build 3 Beginner Javascript Projects in 30 mins Tutorial - HTML, CSS & JS](https://www.youtube.com/watch?v=mCQ1-iDSnto&t=1s)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
