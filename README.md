@@ -79,7 +79,7 @@
     <li><a href="#license">Licenza</a></li>
     <li><a href="#contact">Contatti</a></li>
     <li><a href="#risorse-utili">Risorse utili</a></li>
-    <li><a href="#bonus">Bonus Mentoring</a></li>
+    <li><a href="#bonus-mentoring">Bonus Mentoring</a></li>
   </ol>
 </details>
 
@@ -218,24 +218,37 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-
+<!-- ROADMAP OK -->
 ## Roadmap
 
 - [x] Creating the GitHub repository.
 - [x] Adding the README file, images and other resources...
 - [x] Publishing to GitHub.
-- [ ] Add Additional Templates w/ Examples
 - [ ] Application development.
 - [ ] Checking if the application meets the required technical specifications.
-    - [ ] Translate in english with Google ( sorry ).
-
+- [x] Completa il README.md file.
+  - [ ] Contenuto Descrizione del progetto.
+  - [ ] Contenuto Tecnologie di sviluppo.
+  - [ ] Contenuto Getting Started.
+  - [ ] Contenuto Prerequisiti.
+  - [ ] Contenuto Richieste tecniche.
+  - [ ] Contenuto Installazione.
+  - [ ] Rilascio su GitHub.
+  - [ ] Prima di inviare.
+  - [ ] Parametri valutazione esame.
+  - [ ] Utilizzo.
+  - [ ] Passaggi per sviluppo.
+  - [ ] Contributi.
+  - [x] Licenza.
+  - [ ] Contatti.
+  - [x] Risorse utili.
+  - [x] Bonus Mentoring.
+- [ ] Traduci tutto in italiano.
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- BONUS MENTORING -->
 
 
 ## Contributing
@@ -260,12 +273,10 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- LICENSE -->
-
+<!-- LICENSE OK -->
 ## License
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+Distribuito sotto la licenza Unlicense. Per maggiori informazioni, vedere `LICENSE.txt`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -304,7 +315,6 @@ Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dar
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -337,7 +347,7 @@ Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dar
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
-<!-- BONUS OK -->
+<!-- BONUS MENTORING OK -->
 ## Bonus mentoring
 
 <b>Pubblica su LinkedIn</b>
@@ -359,6 +369,8 @@ Non sai bene come creare un post su LinkedIn?
 <a href="https://www.start2impact.it/wp-content/uploads/2024/06/Guida-Come-creare-un-post-su-LinkedIn.pdf" target="_blank" title="">Qui trovi una breve guida che riassume come farlo in 5 punti.</a>
 </p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <b>Condividi su Instagram o TikTok</b>
 <p>
 Sono Instagram o TikTok i social in cui senti di voler trasmettere la tua voce?
@@ -373,3 +385,5 @@ Se inserisci nella parte finale del tuo progetto una slide intitolata “Bonus M
 
 Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e saranno attribuiti soltanto alla soft skill Mentoring, ma potrà essere il tassello per attrarre nuove opportunità e ispirare altre persone, proprio come un vero Mentor ✨
 </p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
