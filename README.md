@@ -57,19 +57,19 @@
   <summary>Lista dei contenuti</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Descrizione del progetto</a>
+      <a href="#Descrizione-del-progetto">Descrizione del progetto</a>
       <ul>
-        <li><a href="#built-with">Tecnologie di sviluppo</a></li>
+        <li><a href="#Tecnologie-di-sviluppo">Tecnologie di sviluppo</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisiti</a></li>
+        <li><a href="#Prerequisiti">Prerequisiti</a></li>
         <li><a href="#technical-requirements">Richieste tecniche</a></li>
-        <li><a href="#installation">Installazione</a></li>
-        <li><a href="#github-publish">Rilascio su GitHub</a></li>
-        <li><a href="#github-publish">Prima di inviare</a></li>
+        <li><a href="#Installazione">Installazione</a></li>
+        <li><a href="#Rilascio-GitHub">Rilascio su GitHub</a></li>
+        <li><a href="#Prima-di-inviare">Prima di inviare</a></li>
       </ul>
     </li>
     <li><a href="#exam-evalutation">Parametri valutazione esame</a></li>
@@ -83,24 +83,26 @@
   </ol>
 </details>
 
-<!-- Descrizione del progetto -->
-## Descrizione del progetto
 
+## Descrizione del progetto
+<!-- Descrizione del progetto OK -->
 <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">
   <img src="images/js-github-image.jpeg" alt="Logo" width="850" height="600">
 </a>
 
-Develop a JavaScript application that allows the user to increase and decrease the value of the counter.
+<p><b>Sviluppa un'applicazione JavaScript che permetta all'utente di aumentare e decrementare il valore del counter.</b></p>
 
-The user, as soon as he enters the page, will see 0 as the value of the counter and will have two +/- buttons to change the value of the counter.
+<p>L'utente, appena entrato nella pagina, visualizzerà 0 come valore del counter e avrà a disposizione due pulsanti +/- per cambiare il valore del counter.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Tecnologie di sviluppo
+<!-- Descrizione del progetto OK -->
+<p>
+Questa sezione dovrebbe elencare tutti i principali framework/librerie utilizzati per avviare il progetto. Lascia eventuali componenti aggiuntivi/plugin per la sezione dei ringraziamenti. Ecco alcuni esempi.
+</p>
 
 * [![JavaScript][JavaScript.js]][JavaScript-url]
 * [![React][React.js]][React-url]
@@ -151,7 +153,8 @@ Verrà valutata la corretta creazione del repository GitHub (file README).
 
 Per raggiungere il massimo del punteggio, il progetto deve soddisfare appieno tutti i requisiti descritti.
 
-### GitHub Publish
+### Rilascio GitHub
+<!-- GITHUB-RELEASE OK -->
 Il progetto deve essere committato nel tuo repository GitHub.
 
 Il repository GitHub deve contenere tutto il codice sorgente dell'applicazione e il file README contenente la descrizione del progetto, screenshot dell'applicazione (se necessario) e il link, ben visibile, di dove provare l'applicazione.
@@ -179,7 +182,8 @@ Nella presentazione includi tutte le informazioni che possono essere utili per l
 
 Se la presentazione non presenta il link al repository GitHub, il progetto non verrà corretto.
 
-### Before sending
+### Prima di inviare
+<!-- BEFORE-SENDING OK -->
 Sei a un passo dal tuo obiettivo!
 
 Carica il tuo file qui sotto.
@@ -216,10 +220,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP OK -->
 ## Roadmap
-
+<!-- ROADMAP OK -->
 - [x] Creating the GitHub repository.
 - [x] Adding the README file, images and other resources...
 - [x] Publishing to GitHub.
