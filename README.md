@@ -282,8 +282,8 @@ Non dimenticare di dare una stella al progetto! Grazie ancora!
 
 ### Top contributors:
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+<a href="https://github.com/PaoloMarcolli/099-S2I-js-exam/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PaoloMarcolli/099-S2I-js-exam" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
