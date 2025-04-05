@@ -93,7 +93,7 @@
 <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">
   <img src="images/js-github-image.jpeg" alt="Logo" width="850" height="500">
 </a>
-<p style="font-size:0.8rem;">(Screenshoot)</p>
+<p style="font-size:10px;">(Screenshoot)</p>
 <br />
 <p>Sviluppa un'applicazione JavaScript che permetta all'utente di aumentare e decrementare il valore del counter.</p>
 
