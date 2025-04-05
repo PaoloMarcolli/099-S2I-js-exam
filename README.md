@@ -109,7 +109,7 @@
 Questa sono le principali framework/librerie utilizzati per avviare il progetto ( devono rispecchiare le specifiche indicate nella prova di esame ). 
 </p>
 
-* [![JavaScript][JavaScript.js]][JavaScript-url]
+* [![JavaScript][javascript.com]][Javascript-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![JQuery][JQuery.com]][JQuery-url]
@@ -242,7 +242,7 @@ _Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
   - [ ] Aggiunta commenti ( se necessarie ).
 - [x] Completa il README.md file.
   - [x] Contenuto Descrizione del progetto.
-  - [ ] Contenuto Tecnologie di sviluppo.
+  - [x] Contenuto Tecnologie di sviluppo.
   - [x] Contenuto Avvio rapido.
     - [x] Contenuto Spefiche tecniche richieste.
     - [x] Rilascio su GitHub.
@@ -397,3 +397,6 @@ Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e s
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+[javascript.com]: https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+[javascript-com]: https://www.javascript.com/ 
