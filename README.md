@@ -116,13 +116,10 @@ Questa sezione dovrebbe elencare tutti i principali framework/librerie utilizzat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<!-- GETTING STARTED OK -->
+Il progetto funziiona esclusivamente da web, non necessita librerie di terze parti, basta collagarsi all'url <a href="https://paolomarcolli.github.io/099-S2I-js-exam">./project/COUNTER</a> ed è fatta. Il sito è totalmente responsivo realizzato usando la sola MSFlex, senza alcun framework come richiesto
+dal relatore.  
 
 ### Technical requirements
 L'applicazione deve essere sviluppata con JavaScript. 
@@ -212,10 +209,10 @@ Non necessaria.
 <!-- USAGE EXAMPLES -->
 
 ## Utilizzo
+<!-- UTILIZZO OK -->
+Usa questo spazio per mostrare esempi utili di come un progetto può essere utilizzato. Ulteriori screenshot, esempi di codice e demo funzionano bene in questo spazio. Puoi anche collegarti ad altre risorse.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Per ulteriori esempi, fare riferimento a [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
