@@ -381,9 +381,9 @@ Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e s
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[HTML5.org]: https://img.shields.io/badge/HTML5-4A4A55?style=for-the-badge&logo=HTML5&logoColor=FF3E00
+[HTML5.org]: https://img.shields.io/badge/HTML5-4A4A55?style=for-the-badge&logo=HTML5&logoColor=f06629
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5/ 
-[CSS3.com]: https://img.shields.io/badge/CSS3-4A4A55?style=for-the-badge&logo=CSS3&logoColor=FF3E00
+[CSS3.com]: https://img.shields.io/badge/CSS3-4A4A55?style=for-the-badge&logo=CSS3&logoColor=27a9df
 [CSS3-url]: https://css3.com/ 
 [SASS.com]: https://img.shields.io/badge/SASS-4A4A55?style=for-the-badge&logo=SASS&logoColor=cf649a
 [SASS-url]: https://sass-lang.com/ 
