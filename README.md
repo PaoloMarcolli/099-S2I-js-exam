@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/images/logo-250x250-white.png" alt="Logo" width="150" height="150">
+    <img src="readme-img/logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Esempio di contatore in JS</h3>
@@ -89,7 +89,7 @@
 ## Descrizione del progetto
 <!-- Descrizione del progetto OK -->
 <a href="https://paolomarcolli.github.io/099-S2I-js-exam/">
-  <img src="images/js-github-image.jpeg" alt="Logo" width="850" height="500">
+  <img src="images/screenshoot.jpeg" alt="Logo" width="850" height="500">
 </a>
 <sub><b>* screenshoot</b></sub>
 <br />
