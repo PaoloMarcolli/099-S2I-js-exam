@@ -40,6 +40,7 @@
     Un esempio di come creare un contatore in JS!
     <br />
     ( costruzione dinamica controllo, uso delegate, arrow function, CSS with SASS )
+    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Naviga nella guida »</strong></a>
     <br />
     <br />
