@@ -387,5 +387,5 @@ Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e s
 [CSS3-url]: https://css3.com/ 
 [SASS.com]: https://img.shields.io/badge/SASS-4A4A55?style=for-the-badge&logo=SASS&logoColor=FF3E00
 [SASS-url]: https://sass-lang.com/ 
-[JavaScript.com]: https://img.shields.io/badge/JavaScript-4A4A55?style=for-the-badge&logo=JavaScript&logoColor=FF3E00
+[JavaScript.com]: https://img.shields.io/badge/JavaScript-4A4A55?style=for-the-badge&logo=JavaScript&logoColor=f7df1e
 [JavaScript-url]: https://www.javascript.com/ 
