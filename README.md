@@ -274,6 +274,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE OK -->
+
 ## License
 
 Distribuito sotto la licenza Unlicense. Per maggiori informazioni, vedere `LICENSE.txt`.
@@ -292,10 +293,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS OK -->
 
 ## Risorse utili
-
+<!-- ACKNOWLEDGMENTS OK -->
 Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dare credito. Ho incluso alcune delle mie preferite per dare il via alle cose!
 
 * [Javascript Tutorial Italiano 01 - Introduzione a JS](https://www.youtube.com/watch?v=84TYC44ezIU&t=2s)
@@ -314,9 +314,8 @@ Usa questo spazio per elencare le risorse che ritieni utili e a cui vorresti dar
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- BONUS MENTORING OK -->
 ## Bonus mentoring
-
+<!-- BONUS MENTORING OK -->
 <b>Pubblica su LinkedIn</b>
 <p>
 Trasforma il tuo percorso di studi in opportunità grazie a LinkedIn!
