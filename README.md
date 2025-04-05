@@ -41,7 +41,7 @@
     <br />
     ( costruzione dinamica HTML, uso delegato, arrow function, CSS with SASS )
     <br />
-    ( start2Impact ./projects/COUNTER )
+    <b>start2Impact ./projects/COUNTER</b>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Naviga nella guida »</strong></a>
     <br />
