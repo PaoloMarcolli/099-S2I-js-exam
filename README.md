@@ -204,7 +204,6 @@ Non necessario.
 
 ### Installazione
 <!-- INSTALLATION OK -->
-_Di seguito è riportato un esempio di come puoi istruire il tuo pubblico sull'installazione e la configurazione della tua app. Questo modello non si basa su dipendenze o servizi esterni._
 
 Non necessaria. 
 
