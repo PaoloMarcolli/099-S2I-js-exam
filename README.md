@@ -370,8 +370,8 @@ Questo è uno step facoltativo: i punti non influiranno sul punteggio totale e s
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/PaoloMarcolli/099-S2I-js-exam.svg?style=for-the-badge
 [contributors-url]: https://github.com/PaoloMarcolli/099-S2I-js-exam/graphs/contributors
-[forks-shield]: https://img.shields.io/github/network/members/PaoloMarcolli/099-S2I-js-exam.svg?style=for-the-badge
-[forks-url]: https://github.com/PaoloMarcolli/099-S2I-js-exam/network/members
+[forks-shield]: https://img.shields.io/github/forks/PaoloMarcolli/099-S2I-js-exam.svg?style=for-the-badge
+[forks-url]: https://github.com/PaoloMarcolli/099-S2I-js-exam.svg/network/members
 [stars-shield]: https://img.shields.io/github/stars/PaoloMarcolli/099-S2I-js-exam.svg?style=for-the-badge
 [stars-url]: https://github.com/PaoloMarcolli/099-S2I-js-exam/stargazers
 [issues-shield]: https://img.shields.io/github/issues/PaoloMarcolli/099-S2I-js-exam.svg?style=for-the-badge
